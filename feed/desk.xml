@@ -5,7 +5,19 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:57:05 GMT</lastBuildDate>
+    <item>
+      <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
+      <link>https://wtvbam.com/2026/10/19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-ai-agents-hacked-100-sites-50-each</guid>
+      <pubDate>Mon, 19 Oct 2026 10:06:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>A Chinese-speaking hacker used AI agents to break into the websites of more than 100 companies, Reuters reports. Named victims include Deere, SharkNinja and Cummins. Deere says it saw no sign sensitive information was accessed. SharkNinja says only a standalone support site was hit and the threat was contained. The attacker used Cairn, an open source platform that takes a target and a goal and sets AI agents to work on it step by step. Sources: Reuters, The Next Web, PYMNTS, IBTimes UK.</description>
+      <category domain="https://wtvbam.com/2026/10/19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/">Reuters</category>
+      <category domain="https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge">The Next Web</category>
+      <category domain="https://pymnts.com/news/artificial-intelligence/2026/hackers-use-ai-agents-to-do-hacking-for-them">PYMNTS</category>
+      <category domain="https://www.ibtimes.co.uk/its-not-script-kiddie-stuff-hacker-reportedly-uses-ai-breach-corporate-sites-just-50-1826483">IBTimes UK</category>
+    </item>
     <item>
       <title>Elon Musk just promised a SpaceX share to every kid in America</title>
       <link>https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids</link>
@@ -195,19 +207,6 @@
       <category domain="https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/">Unite.AI</category>
       <category domain="https://interestingengineering.com/ai-robotics/claude-quantum-circuit-design">Interesting Engineering</category>
       <category domain="https://blockchain.news/news/claude-designs-more-efficient-quantum-circuits-anthropic-study">Blockchain.News</category>
-    </item>
-    <item>
-      <title>Elon Musk's biggest rival just sent him a message about the new flying Roadster</title>
-      <link>https://phemex.com/news/article/sam-altman-praises-teslas-new-roadster-design-100185</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-16-altman-praises-musk-flying-roadster</guid>
-      <pubDate>Fri, 16 Oct 2026 16:39:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenAI CEO Sam Altman posted on X after Thursday's reveal: &quot;Wow the new roadster looks quite amazing, good job @elonmusk.&quot; Last year, Altman canceled the Roadster he reserved in 2018, saying 7.5 years was a long wait. Musk shot back: &quot;You stole a nonprofit.&quot; Sources: Sam Altman on X, Phemex News, TechCrunch, Fox Business, TechCrunch (2025).</description>
-      <category domain="https://x.com/sama/status/2111131677351432197">Sam Altman on X</category>
-      <category domain="https://phemex.com/news/article/sam-altman-praises-teslas-new-roadster-design-100185">Phemex News</category>
-      <category domain="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/">TechCrunch</category>
-      <category domain="https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second">Fox Business</category>
-      <category domain="https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/">TechCrunch (2025)</category>
     </item>
   </channel>
 </rss>
