@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NeuraFeed news desk (verified stories)</title>
+    <link>https://www.instagram.com/neurafeed.ai/</link>
+    <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Oct 2026 16:13:29 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk just promised a SpaceX share to every kid in America</title>
+      <link>https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-musk-spacex-share-every-us-kid</guid>
+      <pubDate>Mon, 19 Oct 2026 07:52:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>On Monday, Musk wrote on X: &quot;Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.&quot; There are just over 72 million people under 18 in the U.S., according to Census Bureau figures cited by Axios. SpaceX shares closed at $146.03 on Friday. At that price, one share per child adds up to a little over $10.5 billion. Musk owns billions of SpaceX shares, so Axios notes the giveaway would barely dent his stake. Sources: Axios, The National Desk (with AP), The Decoder, Fox Business, Elon Musk on X.</description>
+      <category domain="https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids">Axios</category>
+      <category domain="https://thenationaldesk.com/news/americas-news-now/tesla-ceo-billionaire-elon-musk-vows-a-spacex-share-for-every-us-child-next-year-2027-says-its-the-first-of-many-artificial-super-intelligence-anthropic-public-benefit-fund">The National Desk (with AP)</category>
+      <category domain="https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/">The Decoder</category>
+      <category domain="https://www.foxbusiness.com/fox-news-tech/elon-musk-spacex-shares-american-children-giveaway">Fox Business</category>
+      <category domain="https://x.com/elonmusk/status/2112089556615123114">Elon Musk on X</category>
+    </item>
+    <item>
+      <title>The OpenAI bugging suspect was texting a Saudi royal days before his arrest, feds say</title>
+      <link>https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-openai-bug-suspect-saudi-royal-whatsapp</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Prosecutors say Abdulrahman Alfozan, the former OpenAI engineer accused of bugging an executive conference room, was in frequent WhatsApp contact with a Saudi royal in 2025 and 2026. The royal is not named. Their most recent contact was on October 5, four days before his arrest. The filing says the royal tried to recruit him to an AI initiative in Saudi Arabia. Alfozan allegedly agreed, but said he would not leave OpenAI until his stock vested. Prosecutors do not say the royal directed the device or any theft of information. Sources: CNBC, Quartz, NewsBytes.</description>
+      <category domain="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html">CNBC</category>
+      <category domain="https://qz.com/openai-bugging-suspect-saudi-royal-whatsapp-contact-101926">Quartz</category>
+      <category domain="https://www.newsbytesapp.com/news/world/abdulrahman-alfozan-arrested-filings-show-whatsapp-contact-with-saudi-royal/tldr">NewsBytes</category>
+    </item>
+    <item>
+      <title>Elon Musk tells Anthropic to give its shares directly to the public, says he'll do it too</title>
+      <link>https://sg.finance.yahoo.com/news/doing-elon-musk-says-ll-034646779.html</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-musk-anthropic-give-shares-to-public</guid>
+      <pubDate>Mon, 19 Oct 2026 03:30:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic announced Sunday it will commit 5% of its shares to a new Anthropic Public Benefit Fund. Musk answered on X: &quot;I recommend giving the shares directly to the public.&quot; In a follow-up post he added: &quot;This is what I will be doing.&quot; He gave no details on which shares, who gets them or when. The plan still needs stockholder approval. The board can add 2% more shares for every 50% rise in Anthropic's value above a baseline it has not disclosed. Sources: Benzinga via Yahoo Finance, The Hans India, Free Press Journal, Anthropic, The Hill.</description>
+      <category domain="https://sg.finance.yahoo.com/news/doing-elon-musk-says-ll-034646779.html">Benzinga via Yahoo Finance</category>
+      <category domain="https://www.thehansindia.com/technology/tech-news/elon-musk-challenges-anthropics-share-donation-plan-1133849">The Hans India</category>
+      <category domain="https://www.freepressjournal.in/tech/anthropic-commits-5-of-its-shares-for-public-benefit-elon-musk-says-give-all-shares-to-the-public">Free Press Journal</category>
+      <category domain="https://www.anthropic.com/news/public-benefit-fund">Anthropic</category>
+      <category domain="https://thehill.com/policy/technology/5737459-musk-accuses-anthropic-bias/amp/">The Hill</category>
+    </item>
+    <item>
+      <title>Meta just blamed Claude for knocking a protest group off Instagram</title>
+      <link>https://www.redhot.sg/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension-729326.html</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-meta-blames-claude-no-kings-instagram</guid>
+      <pubDate>Sun, 18 Oct 2026 23:59:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>The No Kings Coalition's Instagram account went dark around 1:30 p.m. Eastern on Oct. 17, during a day of action with nearly 3,000 planned events. Public access came back about 90 minutes later. Organizers say it took hours more before they could manage the account again. Meta says a tool built on Anthropic's Claude was reading Instagram profiles, posts and hashtags at about four times the normal rate, in intense bursts. Sources: The Straits Times via Red Hot Singapore, Startup Fortune, Crypto Briefing, TokenPost.</description>
+      <category domain="https://www.redhot.sg/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension-729326.html">The Straits Times via Red Hot Singapore</category>
+      <category domain="https://startupfortune.com/meta-blames-anthropics-claude-for-wrongly-suspending-no-kings-instagram/">Startup Fortune</category>
+      <category domain="https://cryptobriefing.com/meta-ai-tool-no-kings-instagram-suspension/">Crypto Briefing</category>
+      <category domain="https://www.tokenpost.com/news/technology/34520">TokenPost</category>
+    </item>
+    <item>
+      <title>Anthropic just pledged $48 billion in stock to a fund that grows as the company grows</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-18-anthropic-48-billion-public-benefit-fund</guid>
+      <pubDate>Sun, 18 Oct 2026 18:30:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic announced Sunday that it will commit 5% of its shares to a new Anthropic Public Benefit Fund, subject to stockholder approval. Business Insider valued that stake at about $48 billion, based on Anthropic's most recent valuation. The board can add 2% more shares for every 50% increase in Anthropic's value above a set baseline, which has not been disclosed. Anthropic says it will share details on the fund's governance, structure and valuation milestones in the coming months. Sources: Anthropic, Reuters via Yahoo Finance, Business Insider via Yahoo Finance, Unite.AI.</description>
+      <category domain="https://www.anthropic.com/news/public-benefit-fund">Anthropic</category>
+      <category domain="https://finance.yahoo.com/technology/ai/articles/anthropic-commit-5-stake-public-191115841.html">Reuters via Yahoo Finance</category>
+      <category domain="https://uk.finance.yahoo.com/news/anthropic-commits-billions-public-benefit-184601337.html">Business Insider via Yahoo Finance</category>
+      <category domain="https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/">Unite.AI</category>
+    </item>
+    <item>
+      <title>AI could soon haggle over your salary. Anthropic is asking lawyers how to make it fair</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-anthropic-ai-agents-haggle-lawyers</guid>
+      <pubDate>Sun, 18 Oct 2026 05:10:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic has been consulting law firms on how AI agents should negotiate for users, the Financial Times reported, citing two people familiar with the talks. The deals could include haggling over product prices, settling customer service complaints and pushing for better salary offers. One open question is how often an agent should check back with its human in the middle of a deal. Another is how suspicious it should be of the AI on the other side without becoming &quot;paranoid&quot; or slipping into &quot;conspiratorial thinking.&quot; Sources: PYMNTS, The Decoder, AI Weekly, NewsBytes.</description>
+      <category domain="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/">PYMNTS</category>
+      <category domain="https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/">The Decoder</category>
+      <category domain="https://aiweekly.co/alerts/anthropic-consults-law-firms-on-negotiation-norms-for-ai-agents">AI Weekly</category>
+      <category domain="https://www.newsbytesapp.com/news/science/anthropic-explores-letting-ai-agents-negotiate-deals-on-users-behalf/story">NewsBytes</category>
+    </item>
+    <item>
+      <title>Sam Altman says OpenAI will build a humanoid robot. He expects a demo in 2027</title>
+      <link>https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-18-altman-openai-humanoid-robot-2027</guid>
+      <pubDate>Sat, 17 Oct 2026 23:45:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>On the Sources podcast, Altman was asked if OpenAI would build a humanoid robot. His answer: &quot;We will.&quot; He said the human shape makes sense because &quot;the world is very much designed for people,&quot; so &quot;matching that form factor seems good.&quot; Altman says the robot's looks are &quot;less important than really figuring out ... the brain that makes the robot work.&quot; OpenAI has tried robotics before. Its Dactyl project trained a robot hand in simulation, and the same approach was later used to solve a Rubik's Cube. Sources: Engadget, Tbreak, dev.ua (citing Fortune), BigGo Finance.</description>
+      <category domain="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">Engadget</category>
+      <category domain="https://tbreak.com/openai-humanoid-robot/">Tbreak</category>
+      <category domain="https://dev.ua/en/news/humanoidnyi-robot-vid-openai-1789463163">dev.ua (citing Fortune)</category>
+      <category domain="https://finance.biggo.com/news/66329e60-850c-495b-aba0-0bf87d810207">BigGo Finance</category>
+    </item>
+    <item>
+      <title>Hackers just got into OpenCode and may have your OpenAI and Claude keys</title>
+      <link>https://cybersecuritynews.com/opencode-security-breach/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-18-opencode-breach-ai-api-keys</guid>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>OpenCode, an open source AI coding platform, says someone gained unauthorized access to a legacy system it was in the process of shutting down. It emailed affected users on Saturday, October 17. Users who did not get an email were not affected, the company says. About 1.4% of Console users who linked outside AI providers are in scope. Their stored OpenAI, Anthropic and Google API keys may have been exposed. Sources: Cybersecurity News, Dealroom, Crypto Briefing, Blockonomi.</description>
+      <category domain="https://cybersecuritynews.com/opencode-security-breach/">Cybersecurity News</category>
+      <category domain="https://dealroom.co/news/163473-opencode-breach-drains-users-ai-keys-as-platforms-holding-customer-crede/">Dealroom</category>
+      <category domain="https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/">Crypto Briefing</category>
+      <category domain="https://blockonomi.com/opencode-security-breach-exposes-api-keys-of-1-4-of-console-users">Blockonomi</category>
+    </item>
+    <item>
+      <title>ChatGPT now builds your slide deck, and your whole team can edit it live</title>
+      <link>https://superpowerdaily.com/posts/openai-adds-collaborative-slide-decks-to-chatgpt-with-powerpoint-and-google-slides-export</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-17-chatgpt-slides-team-edit-live</guid>
+      <pubDate>Sat, 17 Oct 2026 06:09:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>OpenAI started rolling out ChatGPT Slides on October 16. It builds a presentation from a conversation, uploaded files or an outline. You can also hand it an example deck, and it follows that deck's style and layout. Change text, images, shapes and charts directly, or just tell ChatGPT what to fix. You can generate custom images or add your own. On mobile you can create slides through chat and view decks, but not edit each element directly. Sources: Superpower Daily, Tech Journal, Kaizen AI Consulting, Digital Today.</description>
+      <category domain="https://superpowerdaily.com/posts/openai-adds-collaborative-slide-decks-to-chatgpt-with-powerpoint-and-google-slides-export">Superpower Daily</category>
+      <category domain="https://techjournal.org/chatgpt-slides-space">Tech Journal</category>
+      <category domain="https://kaizenaiconsulting.com/chatgpt-slides-small-business-decks/">Kaizen AI Consulting</category>
+      <category domain="https://www.digitaltoday.co.kr/en/view/108685/openai-adds-collaboration-space-documents-and-slides-features-to-chatgpt">Digital Today</category>
+    </item>
+    <item>
+      <title>Inside Anthropic, AI agents now outwork humans 6 to 1. Junior hiring just plunged</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-17-anthropic-agents-outwork-staff-6-to-1</guid>
+      <pubDate>Fri, 16 Oct 2026 22:24:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>By August 2026, AI agents directed by Anthropic employees logged six times as many hours as the employees themselves, the company said in a new report. Combined agent work hours first passed human work hours in March 2026. The share of junior hires in Anthropic's technical departments fell from 27% to 9%. Junior staff in those teams dropped from 21% to 14% since early 2025. Postings for junior roles fell sharply after December 2025. Sources: Anthropic, NewsBytes, Blockchain.News.</description>
+      <category domain="https://www.anthropic.com/research/employment-at-anthropic">Anthropic</category>
+      <category domain="https://www.newsbytesapp.com/news/business/anthropic-says-ai-agents-now-work-6-times-human-hours/tldr">NewsBytes</category>
+      <category domain="https://blockchain.news/news/anthropic-ai-agents-outwork-employees-hiring-shifts">Blockchain.News</category>
+    </item>
+    <item>
+      <title>Anthropic quietly pitched lawmakers its own AI bill, with a $1 billion bar to stop a model</title>
+      <link>https://www.yahoo.com/news/articles/anthropic-quietly-pitches-own-ai-223755665.html</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-17-anthropic-pitches-own-ai-safety-bill</guid>
+      <pubDate>Fri, 16 Oct 2026 21:45:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic representatives privately pitched a draft bill on frontier AI safety to lawmakers on Capitol Hill, Politico reported Friday, citing three people familiar with the effort. An Anthropic spokesperson said the bill reflects ideas from the company's Advanced AI Framework, released earlier this year. The government could block a model's release or use only for a foreseeable, imminent risk of over $1 billion in damage, or of killing or seriously injuring more than 50 people. Sources: Reuters, Investing.com, AI Weekly, BigGo Finance.</description>
+      <category domain="https://www.yahoo.com/news/articles/anthropic-quietly-pitches-own-ai-223755665.html">Reuters</category>
+      <category domain="https://www.investing.com/news/economy-news/anthropic-proposes-ai-safety-bill-with-strict-intervention-thresholds--politico-4954958">Investing.com</category>
+      <category domain="https://aiweekly.co/alerts/anthropic-floats-ai-safety-bill-with-1b-50-death-thresholds">AI Weekly</category>
+      <category domain="https://finance.biggo.com/news/5e29c06a-eb26-48ba-b124-3c985545ee2f">BigGo Finance</category>
+    </item>
+    <item>
+      <title>Replit's CEO says it dumped Anthropic because OpenAI is better now</title>
+      <link>https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-17-replit-drops-anthropic-for-openai</guid>
+      <pubDate>Fri, 16 Oct 2026 21:22:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Asked at TechCrunch Disrupt on Thursday whether Replit's OpenAI deal meant it no longer worked with Anthropic, CEO Amjad Masad answered yes. He said the choice came down to cost, partnership and performance, and called OpenAI the better partner &quot;for now.&quot; Masad said Replit's internal benchmark and a public one both show OpenAI's Sol and Astra models building vibe-coded apps from scratch better. Replit announced its OpenAI partnership in August, when it launched a Free Mode powered by OpenAI's GPT-5.6 Luna. Sources: Unite.AI, Mezha, byteiota.</description>
+      <category domain="https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/">Unite.AI</category>
+      <category domain="https://mezha.net/eng/news/mezha-fdd4c6f578d6ab89d343a0d6_replit_no_longer">Mezha</category>
+      <category domain="https://byteiota.com/replit-drops-anthropic-for-openai-the-story-doesnt-add-up/">byteiota</category>
+    </item>
+    <item>
+      <title>Claude is getting a new home: Anthropic just locked in a 20-year data center in Canada</title>
+      <link>https://www.bnnbloomberg.ca/business/company-news/2026/10/16/everwind-says-10b-ai-data-centre-proposal-largest-private-investment-in-ns-history/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-18-anthropic-nova-scotia-20-year-data-center</guid>
+      <pubDate>Fri, 16 Oct 2026 20:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic has signed a 20-year lease for an 18,600 square meter data center in Point Tupper, Cape Breton, to power its Claude AI assistant. Reuters called it the Claude maker's first data center agreement in Canada. Developer EverWind Fuels did not disclose what the lease is worth. EverWind says the full plan is worth C$10 billion, the largest private investment in Nova Scotia's history: C$8 billion for the campus and C$2 billion for wind farms. Sources: BNN Bloomberg, CP24, Reuters via The Daily Guardian, Crypto Briefing.</description>
+      <category domain="https://www.bnnbloomberg.ca/business/company-news/2026/10/16/everwind-says-10b-ai-data-centre-proposal-largest-private-investment-in-ns-history/">BNN Bloomberg</category>
+      <category domain="https://www.cp24.com/news/canada/2026/10/16/everwind-says-10b-ai-data-centre-proposal-largest-private-investment-in-ns-history/">CP24</category>
+      <category domain="https://thedailyguardian.com/news/science-tech/anthropic-signs-lease-for-first-canadian-data-center-766710/">Reuters via The Daily Guardian</category>
+      <category domain="https://cryptobriefing.com/everwind-fuels-nova-scotia-data-center-wind/">Crypto Briefing</category>
+    </item>
+    <item>
+      <title>Claude just cracked a 26-year-old NSA crypto mystery in under 30 minutes</title>
+      <link>https://www.unite.ai/anthropic-says-claude-traced-nist-ecdsa-curve-seeds-to-a-1990s-rng/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-17-claude-cracks-26-year-nsa-curve-mystery</guid>
+      <pubDate>Fri, 16 Oct 2026 18:55:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>In 2000, NIST adopted the ECDSA curves in FIPS 186-2. The NSA supplied the seed values behind them with no explanation of how they were made. P-256, the most widely deployed of these curves, was among them. For 26 years nobody could explain the seeds, and a bounty was offered for the answer. The leading theory said NSA employee Jerry Solinas made the seeds by hashing a humorous passphrase. He died in 2023 with the question still open. Sources: Unite.AI, Blockchain.News, explainx.ai, Anthropic.</description>
+      <category domain="https://www.unite.ai/anthropic-says-claude-traced-nist-ecdsa-curve-seeds-to-a-1990s-rng/">Unite.AI</category>
+      <category domain="https://blockchain.news/news/claude-traces-origins-of-nist-ecdsa-curve-seeds">Blockchain.News</category>
+      <category domain="https://explainx.ai/blog/claude-ecdsa-nist-curve-seeds-lrand48-anthropic-frontier-red-team-backdoor-question-2026">explainx.ai</category>
+      <category domain="https://www.anthropic.com/research/ecdsa-curve-origins">Anthropic</category>
+    </item>
+    <item>
+      <title>Anthropic just moved an outside AI watchdog into its offices. It can't veto what they publish</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-18-anthropic-metr-watchdog-inside-access</guid>
+      <pubDate>Fri, 16 Oct 2026 18:06:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Six employees of METR, a nonprofit that tests frontier AI models, now have Anthropic hardware, office space and internal tools. Anthropic says their access is roughly on par with its own risk assessment teams, and its staff are encouraged to share information with them. Customer data, legally privileged information and model architecture stay off limits. Anthropic can require redactions in those set categories. Sources: Anthropic, Reuters via The Lufkin Daily News, NewsBytes, Fox News.</description>
+      <category domain="https://www.anthropic.com/news/an-update-on-independent-evaluators">Anthropic</category>
+      <category domain="https://lufkindailynews.com/news_reuters/business/anthropic-grants-outside-evaluator-metr-employee-level-access-in-ai-safety-push/article_11be4097-b39c-56b7-8742-2b47ab3a3c4f.html">Reuters via The Lufkin Daily News</category>
+      <category domain="https://www.newsbytesapp.com/news/science/anthropic-gives-metr-employee-level-access-to-inspect-its-ai/story">NewsBytes</category>
+      <category domain="https://www.foxnews.com/politics/who-dario-amodei-anthropic-ceo-pushing-independent-ai-oversight.amp">Fox News</category>
+    </item>
+    <item>
+      <title>Claude just beat the best published quantum circuit designs, one with 17 times fewer gates</title>
+      <link>https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-16-claude-quantum-circuits-17x-fewer-gates</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic says Claude Mythos 5 improved on the best published quantum circuits for eight building blocks, from chemistry and optimization to physics simulation and number theory. Some gains were an order of magnitude or more. In seven of the eight tasks, the new circuits cut both gate and qubit counts. Claude wrote each design as a Python program. An automated evaluator checked it for correctness and scored it, and Claude revised with no human input between rounds. Sources: Unite.AI, Interesting Engineering, Blockchain.News.</description>
+      <category domain="https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/">Unite.AI</category>
+      <category domain="https://interestingengineering.com/ai-robotics/claude-quantum-circuit-design">Interesting Engineering</category>
+      <category domain="https://blockchain.news/news/claude-designs-more-efficient-quantum-circuits-anthropic-study">Blockchain.News</category>
+    </item>
+    <item>
+      <title>Elon Musk's biggest rival just sent him a message about the new flying Roadster</title>
+      <link>https://phemex.com/news/article/sam-altman-praises-teslas-new-roadster-design-100185</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-16-altman-praises-musk-flying-roadster</guid>
+      <pubDate>Fri, 16 Oct 2026 16:39:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>OpenAI CEO Sam Altman posted on X after Thursday's reveal: &quot;Wow the new roadster looks quite amazing, good job @elonmusk.&quot; Last year, Altman canceled the Roadster he reserved in 2018, saying 7.5 years was a long wait. Musk shot back: &quot;You stole a nonprofit.&quot; Sources: Sam Altman on X, Phemex News, TechCrunch, Fox Business, TechCrunch (2025).</description>
+      <category domain="https://x.com/sama/status/2111131677351432197">Sam Altman on X</category>
+      <category domain="https://phemex.com/news/article/sam-altman-praises-teslas-new-roadster-design-100185">Phemex News</category>
+      <category domain="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/">TechCrunch</category>
+      <category domain="https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second">Fox Business</category>
+      <category domain="https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/">TechCrunch (2025)</category>
+    </item>
+  </channel>
+</rss>
