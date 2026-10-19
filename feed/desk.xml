@@ -5,7 +5,18 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:10:32 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic is about to spend another $45 billion on AI computing power</title>
+      <link>https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-19-anthropic-second-45-billion-nscale-deal</guid>
+      <pubDate>Mon, 19 Oct 2026 19:30:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Bloomberg reports Anthropic is in talks to buy about $45 billion in computing power from Nscale, an Nvidia backed AI cloud company. It would be the second deal of roughly that size between the two in two months. Sources say it could close within days, though terms could change. The new capacity would come from a second building at Nscale's Monarch campus in West Virginia, with about 460 megawatts of Nvidia's next generation Vera Rubin chips. Sources: Bloomberg via Investing.com, Crypto Briefing, Finimize.</description>
+      <category domain="https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181">Bloomberg via Investing.com</category>
+      <category domain="https://cryptobriefing.com/nscale-anthropic-45-billion-compute-talks/">Crypto Briefing</category>
+      <category domain="https://finimize.com/content/anthropic-could-double-down-on-nscales-west-virginia-data-center">Finimize</category>
+    </item>
     <item>
       <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
       <link>https://wtvbam.com/2026/10/19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/</link>
@@ -137,29 +148,6 @@
       <category domain="https://www.anthropic.com/research/employment-at-anthropic">Anthropic</category>
       <category domain="https://www.newsbytesapp.com/news/business/anthropic-says-ai-agents-now-work-6-times-human-hours/tldr">NewsBytes</category>
       <category domain="https://blockchain.news/news/anthropic-ai-agents-outwork-employees-hiring-shifts">Blockchain.News</category>
-    </item>
-    <item>
-      <title>Anthropic quietly pitched lawmakers its own AI bill, with a $1 billion bar to stop a model</title>
-      <link>https://www.yahoo.com/news/articles/anthropic-quietly-pitches-own-ai-223755665.html</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-17-anthropic-pitches-own-ai-safety-bill</guid>
-      <pubDate>Fri, 16 Oct 2026 21:45:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Anthropic representatives privately pitched a draft bill on frontier AI safety to lawmakers on Capitol Hill, Politico reported Friday, citing three people familiar with the effort. An Anthropic spokesperson said the bill reflects ideas from the company's Advanced AI Framework, released earlier this year. The government could block a model's release or use only for a foreseeable, imminent risk of over $1 billion in damage, or of killing or seriously injuring more than 50 people. Sources: Reuters, Investing.com, AI Weekly, BigGo Finance.</description>
-      <category domain="https://www.yahoo.com/news/articles/anthropic-quietly-pitches-own-ai-223755665.html">Reuters</category>
-      <category domain="https://www.investing.com/news/economy-news/anthropic-proposes-ai-safety-bill-with-strict-intervention-thresholds--politico-4954958">Investing.com</category>
-      <category domain="https://aiweekly.co/alerts/anthropic-floats-ai-safety-bill-with-1b-50-death-thresholds">AI Weekly</category>
-      <category domain="https://finance.biggo.com/news/5e29c06a-eb26-48ba-b124-3c985545ee2f">BigGo Finance</category>
-    </item>
-    <item>
-      <title>Replit's CEO says it dumped Anthropic because OpenAI is better now</title>
-      <link>https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-17-replit-drops-anthropic-for-openai</guid>
-      <pubDate>Fri, 16 Oct 2026 21:22:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Asked at TechCrunch Disrupt on Thursday whether Replit's OpenAI deal meant it no longer worked with Anthropic, CEO Amjad Masad answered yes. He said the choice came down to cost, partnership and performance, and called OpenAI the better partner &quot;for now.&quot; Masad said Replit's internal benchmark and a public one both show OpenAI's Sol and Astra models building vibe-coded apps from scratch better. Replit announced its OpenAI partnership in August, when it launched a Free Mode powered by OpenAI's GPT-5.6 Luna. Sources: Unite.AI, Mezha, byteiota.</description>
-      <category domain="https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/">Unite.AI</category>
-      <category domain="https://mezha.net/eng/news/mezha-fdd4c6f578d6ab89d343a0d6_replit_no_longer">Mezha</category>
-      <category domain="https://byteiota.com/replit-drops-anthropic-for-openai-the-story-doesnt-add-up/">byteiota</category>
     </item>
   </channel>
 </rss>
