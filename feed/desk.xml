@@ -5,11 +5,11 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:52:59 GMT</lastBuildDate>
     <item>
       <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
       <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-30-billion-race-anthropic-ipo</guid>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-30-billion-race-anthropic-ipo-v2</guid>
       <pubDate>Mon, 19 Oct 2026 22:30:00 GMT</pubDate>
       <author>NeuraFeed news desk</author>
       <description>OpenAI is seeking about $30 billion in a new round that could value it at over $1.4 trillion, Reuters reported, citing two people familiar with the matter. SoftBank, Abu Dhabi's MGX and other existing backers are in talks to join. Neither the amount nor the valuation is final. Anthropic is expected to go public in mid-November, and the two labs draw on a largely overlapping pool of investors. Sources: Reuters (via The Star), Reuters (via Global Banking &amp; Finance Review), TechStartups, Seeking Alpha (via TradingView), KuCoin News.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>OpenAI's AI just learned the 67-year-old code that runs your ATM</title>
       <link>https://dataconomy.com/2026/10/20/openai-gpt-6-cobol-coding-migration-gains/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-learns-cobol-atm-code</guid>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-learns-cobol-atm-code-v2</guid>
       <pubDate>Mon, 19 Oct 2026 18:00:00 GMT</pubDate>
       <author>NeuraFeed news desk</author>
       <description>OpenAI says its newest models got far better at COBOL, Fortran and Visual Basic, languages that banks, governments and businesses still depend on. On its COBOL migration test, GPT-6.1 Sol scored 86.6% at low effort, up from 5.4% for GPT-5.6 Sol. At higher effort it reached 97.9%. COBOL dates back to 1959. OpenAI cites estimates that it supports more than 40% of online banking systems and 95% of ATM transactions. Sources: Dataconomy, Interesting Engineering, Crypto Briefing, Superpower Daily, OpenAI on X.</description>
@@ -58,7 +58,7 @@
     <item>
       <title>Anthropic's unreleased model reportedly figures out what you really want, even when you don't say it</title>
       <link>https://au.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4699221</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-anthropic-next-model-reads-intent</guid>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-anthropic-next-model-reads-intent-v2</guid>
       <pubDate>Mon, 19 Oct 2026 14:00:00 GMT</pubDate>
       <author>NeuraFeed news desk</author>
       <description>Anthropic is developing a model with stronger reasoning and what The Information calls intuition: it can infer a user's real goal from limited instructions. One tester said it spots the bigger problem behind a single software bug and proposes a more complete fix. Google is preparing Gemini 4 Carbon, an upgrade to Gemini 4 Argon. Developers say Gemini is especially strong at visual tasks like video analysis. Sources: The Information (via Investing.com), Tbreak, TestingCatalog.</description>
@@ -80,7 +80,7 @@
     <item>
       <title>You can now hunt for your next home without leaving Claude. Zillow just moved in</title>
       <link>https://zillow.mediaroom.com/2026-10-19-Zillow-brings-specialized-housing-intelligence-to-Claude,-with-a-path-to-tours,-agents-and-financing</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-zillow-house-hunting-inside-claude</guid>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-zillow-house-hunting-inside-claude-v2</guid>
       <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
       <author>NeuraFeed news desk</author>
       <description>Zillow launched a connector for Claude on October 19. It lets you search homes for sale or rent, check home values and estimate what you can afford. Listings show up with photos, prices and interactive maps, and each one links back to Zillow. From the same conversation you can request a tour, connect with a real estate agent or explore financing. &quot;This connector helps Claude users take the next step through Zillow: a tour, an agent, a loan officer,&quot; said Josh Weisberg, Zillow's SVP of AI. Sources: Zillow (press release), Technobezz, Unite.AI, Zillow help page.</description>
