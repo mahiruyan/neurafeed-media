@@ -5,7 +5,20 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 02:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:33:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
+      <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-30-billion-race-anthropic-ipo</guid>
+      <pubDate>Mon, 19 Oct 2026 22:30:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>OpenAI is seeking about $30 billion in a new round that could value it at over $1.4 trillion, Reuters reported, citing two people familiar with the matter. SoftBank, Abu Dhabi's MGX and other existing backers are in talks to join. Neither the amount nor the valuation is final. Anthropic is expected to go public in mid-November, and the two labs draw on a largely overlapping pool of investors. Sources: Reuters (via The Star), Reuters (via Global Banking &amp; Finance Review), TechStartups, Seeking Alpha (via TradingView), KuCoin News.</description>
+      <category domain="https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say">Reuters (via The Star)</category>
+      <category domain="https://www.globalbankingandfinance.com/exclusive-openai-seeks-accelerate-fundraising-ahead/">Reuters (via Global Banking &amp; Finance Review)</category>
+      <category domain="https://techstartups.com/2026/10/19/openai-seeks-1-4-trillion-valuation-in-30-billion-funding-push-ahead-of-anthropic-ipo/">TechStartups</category>
+      <category domain="https://www.tradingview.com/news/seekingalpha:16ed3c48d094b:0-openai-races-to-lock-in-30b-at-1-4tvaluation-ahead-of-anthropic-ipo/">Seeking Alpha (via TradingView)</category>
+      <category domain="https://www.kucoin.com/news/flash/openai-accelerates-fundraising-ahead-of-anthropic-s-expected-ipo">KuCoin News</category>
+    </item>
     <item>
       <title>Anthropic is about to spend another $45 billion on AI computing power</title>
       <link>https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181</link>
@@ -16,6 +29,18 @@
       <category domain="https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181">Bloomberg via Investing.com</category>
       <category domain="https://cryptobriefing.com/nscale-anthropic-45-billion-compute-talks/">Crypto Briefing</category>
       <category domain="https://finimize.com/content/anthropic-could-double-down-on-nscales-west-virginia-data-center">Finimize</category>
+    </item>
+    <item>
+      <title>Microsoft just admitted AI models cannot be trusted, even inside your own company</title>
+      <link>https://www.businesstoday.in/amp/technology/story/ai-models-cannot-be-trusted-microsoft-warns-of-insider-threats-expands-project-perception-562579-2026-10-19</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-microsoft-ai-models-cannot-be-trusted</guid>
+      <pubDate>Mon, 19 Oct 2026 15:08:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Microsoft Security chief Hayete Gallot wrote that frontier models, &quot;regardless of their origin, cannot be trusted.&quot; They are trained to get results, which can lead to reward hacking. She warned that many company agents have access to data, tools and systems far beyond their tasks. She calls them &quot;agentic insiders.&quot; Gallot says agents are unpredictable and may not behave as intended. They could even collude with other agents without ever being hacked. Sources: Business Today, DigitalToday, TechCrunch, Zetik.</description>
+      <category domain="https://www.businesstoday.in/amp/technology/story/ai-models-cannot-be-trusted-microsoft-warns-of-insider-threats-expands-project-perception-562579-2026-10-19">Business Today</category>
+      <category domain="https://digitaltoday.co.kr/en/view/116589/microsoft-expands-project-perception-deploys-guardian-agent-to-control-in-house-ai-agents">DigitalToday</category>
+      <category domain="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch</category>
+      <category domain="https://www.zetik.com/news/article/story_id-p008-225178">Zetik</category>
     </item>
     <item>
       <title>Meta's AI supercomputer in Ohio is racing toward 1 million GPUs</title>
@@ -148,18 +173,6 @@
       <category domain="https://dealroom.co/news/163473-opencode-breach-drains-users-ai-keys-as-platforms-holding-customer-crede/">Dealroom</category>
       <category domain="https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/">Crypto Briefing</category>
       <category domain="https://blockonomi.com/opencode-security-breach-exposes-api-keys-of-1-4-of-console-users">Blockonomi</category>
-    </item>
-    <item>
-      <title>ChatGPT now builds your slide deck, and your whole team can edit it live</title>
-      <link>https://superpowerdaily.com/posts/openai-adds-collaborative-slide-decks-to-chatgpt-with-powerpoint-and-google-slides-export</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-17-chatgpt-slides-team-edit-live</guid>
-      <pubDate>Sat, 17 Oct 2026 06:09:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenAI started rolling out ChatGPT Slides on October 16. It builds a presentation from a conversation, uploaded files or an outline. You can also hand it an example deck, and it follows that deck's style and layout. Change text, images, shapes and charts directly, or just tell ChatGPT what to fix. You can generate custom images or add your own. On mobile you can create slides through chat and view decks, but not edit each element directly. Sources: Superpower Daily, Tech Journal, Kaizen AI Consulting, Digital Today.</description>
-      <category domain="https://superpowerdaily.com/posts/openai-adds-collaborative-slide-decks-to-chatgpt-with-powerpoint-and-google-slides-export">Superpower Daily</category>
-      <category domain="https://techjournal.org/chatgpt-slides-space">Tech Journal</category>
-      <category domain="https://kaizenaiconsulting.com/chatgpt-slides-small-business-decks/">Kaizen AI Consulting</category>
-      <category domain="https://www.digitaltoday.co.kr/en/view/108685/openai-adds-collaboration-space-documents-and-slides-features-to-chatgpt">Digital Today</category>
     </item>
   </channel>
 </rss>
