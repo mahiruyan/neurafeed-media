@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:16:24 GMT</lastBuildDate>
     <item>
       <title>Anthropic is about to spend another $45 billion on AI computing power</title>
       <link>https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181</link>
@@ -16,6 +16,17 @@
       <category domain="https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181">Bloomberg via Investing.com</category>
       <category domain="https://cryptobriefing.com/nscale-anthropic-45-billion-compute-talks/">Crypto Briefing</category>
       <category domain="https://finimize.com/content/anthropic-could-double-down-on-nscales-west-virginia-data-center">Finimize</category>
+    </item>
+    <item>
+      <title>Meta's AI supercomputer in Ohio is racing toward 1 million GPUs</title>
+      <link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-meta-prometheus-million-gpus</guid>
+      <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Meta says Prometheus in New Albany, Ohio, already runs hundreds of thousands of GPUs across several connected buildings. Its first phase is done. That phase trained Meta's Muse models, including Muse Wonder. Two years ago the site was a regular data center serving web traffic. In mid 2025, Meta saw nearly 1,000 interruptions per day for every 8,000 GPUs. One failed part can stall a giant training job. Meta says it has cut that rate by 99 percent. Its goal is just two interruptions per 8,000 GPUs per day. Sources: Engineering at Meta, StorageReview, Unite.AI.</description>
+      <category domain="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/">Engineering at Meta</category>
+      <category domain="https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72">StorageReview</category>
+      <category domain="https://www.unite.ai/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus/">Unite.AI</category>
     </item>
     <item>
       <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
@@ -137,17 +148,6 @@
       <category domain="https://techjournal.org/chatgpt-slides-space">Tech Journal</category>
       <category domain="https://kaizenaiconsulting.com/chatgpt-slides-small-business-decks/">Kaizen AI Consulting</category>
       <category domain="https://www.digitaltoday.co.kr/en/view/108685/openai-adds-collaboration-space-documents-and-slides-features-to-chatgpt">Digital Today</category>
-    </item>
-    <item>
-      <title>Inside Anthropic, AI agents now outwork humans 6 to 1. Junior hiring just plunged</title>
-      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-17-anthropic-agents-outwork-staff-6-to-1</guid>
-      <pubDate>Fri, 16 Oct 2026 22:24:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>By August 2026, AI agents directed by Anthropic employees logged six times as many hours as the employees themselves, the company said in a new report. Combined agent work hours first passed human work hours in March 2026. The share of junior hires in Anthropic's technical departments fell from 27% to 9%. Junior staff in those teams dropped from 21% to 14% since early 2025. Postings for junior roles fell sharply after December 2025. Sources: Anthropic, NewsBytes, Blockchain.News.</description>
-      <category domain="https://www.anthropic.com/research/employment-at-anthropic">Anthropic</category>
-      <category domain="https://www.newsbytesapp.com/news/business/anthropic-says-ai-agents-now-work-6-times-human-hours/tldr">NewsBytes</category>
-      <category domain="https://blockchain.news/news/anthropic-ai-agents-outwork-employees-hiring-shifts">Blockchain.News</category>
     </item>
   </channel>
 </rss>
