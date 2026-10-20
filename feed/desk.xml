@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:nf="https://neurafeedai.com/ns/desk">
   <channel>
     <title>NeuraFeed news desk (verified stories)</title>
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:09:57 GMT</lastBuildDate>
-    <item>
-      <title>A San Francisco gym had to post a new rule: don't vibe code between sets</title>
-      <link>https://www.fitnesssf.com/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-fitness-sf-dont-vibe-code-sign</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>A screen inside a FITNESS SF gym lists a new rule under &quot;Gym Etiquette 101&quot;: don't vibe code in between sets. Members are told to keep their rest time for recovery, &quot;not React components,&quot; and to stop checking commits or prompting AI mid-workout. The sign closes with a line any startup founder would recognize: &quot;Be present. Lift harder. Ship later.&quot; Sources: Photo of the FITNESS SF sign, shared on Instagram (link from Mahir), FITNESS SF, Bitscale company profile: FITNESS SF, Wikipedia: Vibe coding.</description>
-      <category domain="https://www.instagram.com/p/DeuDmA-ABzt/">Photo of the FITNESS SF sign, shared on Instagram (link from Mahir)</category>
-      <category domain="https://www.fitnesssf.com/">FITNESS SF</category>
-      <category domain="https://bitscale.ai/directory/fitness-sf">Bitscale company profile: FITNESS SF</category>
-      <category domain="https://en.wikipedia.org/wiki/Vibe_coding">Wikipedia: Vibe coding</category>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 20:58:36 GMT</lastBuildDate>
     <item>
       <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
       <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
@@ -30,6 +18,15 @@
       <category domain="https://techstartups.com/2026/10/19/openai-seeks-1-4-trillion-valuation-in-30-billion-funding-push-ahead-of-anthropic-ipo/">TechStartups</category>
       <category domain="https://www.tradingview.com/news/seekingalpha:16ed3c48d094b:0-openai-races-to-lock-in-30b-at-1-4tvaluation-ahead-of-anthropic-ipo/">Seeking Alpha (via TradingView)</category>
       <category domain="https://www.kucoin.com/news/flash/openai-accelerates-fundraising-ahead-of-anthropic-s-expected-ipo">KuCoin News</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-openai-30-billion-race-anthropic-ipo-v2/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>A sports car and a race car on a track with a duffel bag full of cash in the foreground.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://techstartups.com/wp-content/uploads/2026/04/OpenAI.jpg" medium="image"><media:credit>TechStartups</media:credit></media:content>
+      <media:content url="https://www.globalbankingandfinance.com/i/cloud-65beddb7-5a5c-4bcb-b177-4c54dca7d8a1/width=1200,quality=72,format=auto,fit=cover/" medium="image"><media:credit>TechStartups</media:credit></media:content>
+      <media:content url="https://i0.wp.com/crm.retailnews.asia/wp-content/uploads/2025/09/OpenAI-1024x683.avif?w=1600&amp;quality=72&amp;strip=all&amp;ssl=1" medium="image"><media:credit>Reuters / Dado Ruvic</media:credit></media:content>
+      <media:content url="https://techstartups.com/wp-content/uploads/2026/10/Anthropic-third-quarter-revenue-jumps-45-to-16.8-billion-ahead-of-blockbuster-2-trillion-IPO.jpg" medium="image"><media:credit>TechStartups</media:credit></media:content>
+      <media:content url="https://techstartups.com/wp-content/uploads/2024/06/Anthropic.jpg" medium="image"><media:credit>TechStartups</media:credit></media:content>
+      <media:content url="https://techstartups.com/wp-content/uploads/2025/09/OPenAI.jpg" medium="image"><media:credit>RetailNews Asia</media:credit></media:content>
     </item>
     <item>
       <title>Anthropic is about to spend another $45 billion on AI computing power</title>
@@ -41,6 +38,17 @@
       <category domain="https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181">Bloomberg via Investing.com</category>
       <category domain="https://cryptobriefing.com/nscale-anthropic-45-billion-compute-talks/">Crypto Briefing</category>
       <category domain="https://finimize.com/content/anthropic-could-double-down-on-nscales-west-virginia-data-center">Finimize</category>
+      <nf:category>breaking</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-anthropic-second-45-billion-nscale-deal/hero.jpg" width="1920" height="1080" ai="false"><nf:alt>Three digital screens above a large data center layout with multiple server racks and empty rooms.</nf:alt><nf:credit>AIP</nf:credit><nf:license>Company press image</nf:license><nf:source>https://blogs.nvidia.com/wp-content/uploads/2026/10/Social_Social_ai-infrastructure-press-dsx-kv-1920x1080-5304850.png</nf:source></nf:hero>
+      <media:content url="https://img.energytech.com/files/base/ebm/energytech/image/2026/03/69bc368671bddf0a99567bff-monarch_compute_campus_rendering.png?auto=format,compress&amp;w=1600" medium="image"><media:credit>AIP</media:credit></media:content>
+      <media:content url="https://www.pymnts.com/wp-content/uploads/2026/08/Anthropic-Nscale-1.jpg" medium="image"><media:credit>AIP</media:credit></media:content>
+      <media:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Social_Social_ai-infrastructure-press-dsx-kv-1920x1080-5304850.png" medium="image"><media:credit>AIP</media:credit></media:content>
+      <media:content url="https://resource.tradingkey.com/uploads/20260821/Anthropic-c8276cfd47ae471aa9b045f694b9e384.jpg" medium="image"><media:credit>PYMNTS</media:credit></media:content>
+      <media:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-1680x945.jpg" medium="image"><media:credit>NVIDIA</media:credit></media:content>
+      <media:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/end-to-end-promo-dsx-os-ocp26-social-1920x1080-5831267.jpg" medium="image"><media:credit>NVIDIA</media:credit></media:content>
+      <media:content url="https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L4N4651HH_1814798600.jpeg?ixlib=python-3.1.2&amp;s=92a33071894ff944e851d6056eb48f16" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1920px-BalticServers_data_center.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
     </item>
     <item>
       <title>OpenAI's AI just learned the 67-year-old code that runs your ATM</title>
@@ -54,6 +62,15 @@
       <category domain="https://cryptobriefing.com/openai-upgrades-model-cobol-fortran-legacy-code/">Crypto Briefing</category>
       <category domain="https://superpowerdaily.com/posts/openai-releases-coding-benchmark-and-reports-sharp-gains-in-cobol">Superpower Daily</category>
       <category domain="https://x.com/OpenAI/status/2112310345863930168">OpenAI on X</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-openai-learns-cobol-atm-code-v2/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>A digital brain with circuitry patterns connected by lines to an ATM machine on a building wall.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://cms.interestingengineering.com/wp-content/uploads/2026/10/Untitled-Design-2026-10-20T061617.044.jpg" medium="image"><media:credit>Getty Images</media:credit></media:content>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2025/04/IBM-z17.jpg?resize=1200,675" medium="image"><media:credit>Getty Images</media:credit></media:content>
+      <media:content url="https://dataconomy.com/wp-content/uploads/2026/10/openai-reports-sharp-gains-in-cobol-coding-and-mig.png" medium="image"><media:credit>OpenAI</media:credit></media:content>
+      <media:content url="https://superpowerdaily.com/api/story-images/95ae7374-c7bf-457e-b0f2-3c96afa7b291?dpl=81eccc662c595d87260e9cd98cb306c196c83dd8" medium="image"><media:credit>OpenAI</media:credit></media:content>
+      <media:content url="https://mma.prnewswire.com/media/2659723/New_IBM_z17_Mainframe.jpg" medium="image"><media:credit>IBM</media:credit></media:content>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2025/04/IBM-z17.jpg?w=1024" medium="image"><media:credit>IBM</media:credit></media:content>
     </item>
     <item>
       <title>Smart TVs watch what you watch. People are now using Claude to rip out the ads and tracking</title>
@@ -68,6 +85,15 @@
       <category domain="https://x.com/doooyle">Ryan Doyle on X</category>
       <category domain="https://github.com/Gathin23/cleanyourtv">cleanyourtv on GitHub</category>
       <category domain="https://github.com/humblemuzzu/dumbtv">dumbtv on GitHub</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-claude-code-strips-smart-tv-ads/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>A large camera lens is displayed on a screen next to a trash bin filled with broken cameras.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200" medium="image"><media:credit>Google</media:credit></media:content>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/4fbfb4b75636dee7e6b9f75ea84ca1798f3cfca932a25f2e4a7e8b8a43ac511d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F840910f8d9e5354fce25a7ba79e0e9a2" medium="image"><media:credit>Google</media:credit></media:content>
+      <media:content url="https://clauding.de/images/smart-tv-entruempeln-claude-code-og-en.jpg" medium="image"><media:credit>clauding.de</media:credit></media:content>
+      <media:content url="https://clauding.de/images/smart-tv-entruempeln-claude-code.webp" medium="image"><media:credit>clauding.de</media:credit></media:content>
+      <media:content url="https://www.engadget.com/img/gallery/anthropic-now-offers-a-free-vulnerability-finding-service-for-open-source-software/intro-1791544973.jpg" medium="image"><media:credit>Michael M. Santiago / Getty Images</media:credit></media:content>
+      <media:content url="https://www.engadget.com/img/gallery/anthropic-now-offers-a-free-vulnerability-finding-service-for-open-source-software/l-intro-1791544973.jpg" medium="image"><media:credit>Michael M. Santiago / Getty Images</media:credit></media:content>
     </item>
     <item>
       <title>Microsoft just admitted AI models cannot be trusted, even inside your own company</title>
@@ -80,6 +106,14 @@
       <category domain="https://digitaltoday.co.kr/en/view/116589/microsoft-expands-project-perception-deploys-guardian-agent-to-control-in-house-ai-agents">DigitalToday</category>
       <category domain="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/">TechCrunch</category>
       <category domain="https://www.zetik.com/news/article/story_id-p008-225178">Zetik</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-microsoft-ai-models-cannot-be-trusted/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>Cracked humanoid robot head with exposed wiring sits on a table in a modern empty office room.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://cdn.benzinga.com/cdn-cgi/image/width=3840,format=auto,quality=85/files/images/story/2026/10/11/Microsoft-CEO-Satya-Nadella-smiles-in-a-.jpg" medium="image"><media:credit>Shutterstock</media:credit></media:content>
+      <media:content url="https://www.androidheadlines.com/wp-content/uploads/2024/01/Microsoft-new-CEO-Satya-Nadella-jpg.webp" medium="image"><media:credit>Shutterstock</media:credit></media:content>
+      <media:content url="https://cdn.digitaltoday.co.kr/news/photo/202610/708301_655934_5634.jpg" medium="image"><media:credit>Shutterstock</media:credit></media:content>
+      <media:content url="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad6320833a8c-microsoft-cautions-indian-firms-on-ai-risks--expands-project-perception-for-better-security-190647140-16x9.png" medium="image"><media:credit>Shutterstock</media:credit></media:content>
+      <media:content url="https://petri.com/wp-content/uploads/2023/11/microsoft-security-hero-approved-image.jpg" medium="image"><media:credit>Business Today</media:credit></media:content>
     </item>
     <item>
       <title>Anthropic's unreleased model reportedly figures out what you really want, even when you don't say it</title>
@@ -91,6 +125,15 @@
       <category domain="https://au.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4699221">The Information (via Investing.com)</category>
       <category domain="https://tbreak.com/anthropic-ai-model-intent-google-openai-report/">Tbreak</category>
       <category domain="https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/">TestingCatalog</category>
+      <nf:category>models</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-anthropic-next-model-reads-intent-v2/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>A large mechanical armillary sphere inside a glass case in a circular room with shelves and furniture.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w2000/2026/10/1714580635_anthropic.jpg" medium="image"><media:credit>TestingCatalog</media:credit></media:content>
+      <media:content url="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/1714580635_anthropic.jpg" medium="image"><media:credit>TestingCatalog</media:credit></media:content>
+      <media:content url="https://i0.wp.com/tbreak.com/wp-content/uploads/2026/09/feature_cd73e3f7.jpg?fit=1200%2C800&amp;ssl=1" medium="image"><media:credit>Tbreak</media:credit></media:content>
+      <media:content url="https://tbreak.com/wp-content/uploads/2026/09/feature_cd73e3f7.jpg" medium="image"><media:credit>Tbreak</media:credit></media:content>
+      <media:content url="https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://techstartups.com/wp-content/uploads/2025/09/OPenAI.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
     </item>
     <item>
       <title>Meta's AI supercomputer in Ohio is racing toward 1 million GPUs</title>
@@ -102,6 +145,17 @@
       <category domain="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/">Engineering at Meta</category>
       <category domain="https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72">StorageReview</category>
       <category domain="https://www.unite.ai/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus/">Unite.AI</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+
+      <media:content url="https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-New-Albany-aerial.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-data-hall.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-New-Albany-cold-aisle.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://engineering.fb.com/wp-content/uploads/2026/10/Meta-Prometheus-GB200-GB200-interruptions.png" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-Catalina-GB200-NVL72-racks.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
+      <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-network-switch-cabling.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
     </item>
     <item>
       <title>You can now hunt for your next home without leaving Claude. Zillow just moved in</title>
@@ -114,6 +168,14 @@
       <category domain="https://www.technobezz.com/news/zillow-brings-home-search-tools-claude">Technobezz</category>
       <category domain="https://www.unite.ai/zillow-launches-claude-connector-for-listings-tours-and-financing/">Unite.AI</category>
       <category domain="https://www.zillow.com/connect-claude-to-zillow/">Zillow help page</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-zillow-house-hunting-inside-claude-v2/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>Image for: You can now hunt for your next home without leaving Claude. Zillow just moved in</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
+      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/zillow-launches-claude-connector-listings-tours-financing.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
+      <media:content url="https://mmx.prnewswire.com/media/MS2016287/Zillow-Claude-connector-For-Sale-Prompt.jpg?id=OA3027249&amp;p=thumbnail" medium="image"><media:credit>Unite.AI</media:credit></media:content>
+      <media:content url="https://mmx.prnewswire.com/media/MS2016287/Zillow-Claude-connector-For-Sale-Prompt.jpg?id=OA3027249" medium="image"><media:credit>Zillow</media:credit></media:content>
+      <media:content url="https://mmx.prnewswire.com/media/MS2016288/Zillow-Claude-connector-For-Rent-Prompt.jpg?id=OA3027250" medium="image"><media:credit>Zillow</media:credit></media:content>
+      <media:content url="https://mmx.prnewswire.com/media/MS2016288/Zillow-Claude-connector-For-Rent-Prompt.jpg?id=OA3027250&amp;p=thumbnail" medium="image"><media:credit>Zillow</media:credit></media:content>
     </item>
     <item>
       <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
@@ -126,6 +188,17 @@
       <category domain="https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge">The Next Web</category>
       <category domain="https://pymnts.com/news/artificial-intelligence/2026/hackers-use-ai-agents-to-do-hacking-for-them">PYMNTS</category>
       <category domain="https://www.ibtimes.co.uk/its-not-script-kiddie-stuff-hacker-reportedly-uses-ai-breach-corporate-sites-just-50-1826483">IBTimes UK</category>
+      <nf:category>breaking</nf:category>
+      <nf:sensitive>true</nf:sensitive>
+
+      <media:content url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/19/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_3_AI-CYBERCRIME.JPG" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://en.cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit>The Cryptonomist</media:credit></media:content>
+      <media:content url="https://en.cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking-696x464.jpeg" medium="image"><media:credit>The Cryptonomist</media:credit></media:content>
+      <media:content url="https://d.ibtimes.co.uk/en/full/1837668/cyberhacking.png" medium="image"><media:credit>Kevin Horvat / Unsplash</media:credit></media:content>
+      <media:content url="https://www.pymnts.com/wp-content/uploads/2024/08/cybersecurity-hackers-data-breach.jpg" medium="image"><media:credit>Kevin Horvat / Unsplash</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.jpg" medium="image"><media:credit>Tiero via Canva</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.avif" medium="image"><media:credit>Tiero via Canva</media:credit></media:content>
     </item>
     <item>
       <title>Elon Musk just promised a SpaceX share to every kid in America</title>
@@ -139,6 +212,17 @@
       <category domain="https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/">The Decoder</category>
       <category domain="https://www.foxbusiness.com/fox-news-tech/elon-musk-spacex-shares-american-children-giveaway">Fox Business</category>
       <category domain="https://x.com/elonmusk/status/2112089556615123114">Elon Musk on X</category>
+      <nf:category>breaking</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-musk-spacex-share-every-us-kid/hero.jpg" width="1200" height="630" ai="false"><nf:alt>Image for: Elon Musk just promised a SpaceX share to every kid in America</nf:alt><nf:credit>Kevin Lamarque / Pool / Getty Images</nf:credit><nf:license>Company press image</nf:license><nf:source>https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg</nf:source></nf:hero>
+      <media:content url="https://thenationaldesk.com/resources/media2/3x4/4320/960/2160x0/90/75984aec-ca40-4e06-b6de-6e39ca029233-AP26281662471891.jpg" medium="image"><media:credit>AP Photo/Julia Demaree Nikhinson</media:credit></media:content>
+      <media:content url="https://thenationaldesk.com/resources/media2/16x9/8640/986/0x450/90/75984aec-ca40-4e06-b6de-6e39ca029233-AP26281662471891.jpg" medium="image"><media:credit>AP Photo/Julia Demaree Nikhinson</media:credit></media:content>
+      <media:content url="https://images.axios.com/t2-DL4LSdXP8fF7jo6o6CZvfeAE=/0x144:4109x2455/1366x768/2026/10/19/1792400108991.jpeg" medium="image"><media:credit>AP Photo/Julia Demaree Nikhinson</media:credit></media:content>
+      <media:content url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/elon-musk-wef.png?ve=1&amp;tl=1" medium="image"><media:credit>Fabrice Coffrini / AFP via Getty Images</media:credit></media:content>
+      <media:content url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/1024/512/elon-musk-wef.png?ve=1&amp;tl=1" medium="image"><media:credit>Fabrice Coffrini / AFP via Getty Images</media:credit></media:content>
+      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit>Kevin Lamarque / Pool / Getty Images</media:credit></media:content>
+      <media:content url="https://the-decoder.com/wp-content/uploads/2026/10/Anthropic-Public-Benefit-Fund-2000x1125-1.webp" medium="image"><media:credit>Anthropic</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/07/shotwell-spacex-stock-trump-accounts.jpg" medium="image"><media:credit>NASA/Jay Westcott</media:credit></media:content>
     </item>
     <item>
       <title>The OpenAI bugging suspect was texting a Saudi royal days before his arrest, feds say</title>
@@ -150,6 +234,17 @@
       <category domain="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html">CNBC</category>
       <category domain="https://qz.com/openai-bugging-suspect-saudi-royal-whatsapp-contact-101926">Quartz</category>
       <category domain="https://www.newsbytesapp.com/news/world/abdulrahman-alfozan-arrested-filings-show-whatsapp-contact-with-saudi-royal/tldr">NewsBytes</category>
+      <nf:category>policy</nf:category>
+      <nf:sensitive>true</nf:sensitive>
+
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934.jpg" medium="image"><media:credit>U.S. Department of Justice via Reuters</media:credit></media:content>
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&amp;quality=80" medium="image"><media:credit>U.S. Department of Justice via Reuters</media:credit></media:content>
+      <media:content url="https://assets.qz.com/media/GettyImages-2266383509-1920x1280.jpg" medium="image"><media:credit>SOPA Images / Getty Images</media:credit></media:content>
+      <media:content url="https://gizmodo.com/app/uploads/2026/10/GettyImages-2299257316.jpg" medium="image"><media:credit>Win McNamee / Getty Images</media:credit></media:content>
+      <media:content url="https://gizmodo.com/app/uploads/2026/10/GettyImages-2299257316-1200x675.jpg" medium="image"><media:credit>Win McNamee / Getty Images</media:credit></media:content>
+      <media:content url="https://www.coloradopolitics.com/wp-content/uploads/2026/10/AP-OpenAI_Government_Websites__4766.jpg" medium="image"><media:credit>AP Photo / Michael Dwyer</media:credit></media:content>
+      <media:content url="https://futurism.com/wp-content/uploads/2026/10/man-bugged-openai-executive-conference-room-flight-saudi-arabia.jpg?w=1200" medium="image"><media:credit>DOJ / Futurism</media:credit></media:content>
+      <media:content url="https://gizmodo.com/app/uploads/2026/06/GettyImages-2264640543-1280x852.jpg" medium="image"><media:credit>Getty Images</media:credit></media:content>
     </item>
     <item>
       <title>Elon Musk tells Anthropic to give its shares directly to the public, says he'll do it too</title>
@@ -163,6 +258,17 @@
       <category domain="https://www.freepressjournal.in/tech/anthropic-commits-5-of-its-shares-for-public-benefit-elon-musk-says-give-all-shares-to-the-public">Free Press Journal</category>
       <category domain="https://www.anthropic.com/news/public-benefit-fund">Anthropic</category>
       <category domain="https://thehill.com/policy/technology/5737459-musk-accuses-anthropic-bias/amp/">The Hill</category>
+      <nf:category>breaking</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-musk-anthropic-give-shares-to-public/hero.jpg" width="1200" height="630" ai="false"><nf:alt>Image for: Elon Musk tells Anthropic to give its shares directly to the public, says he'll do it too</nf:alt><nf:credit>Anthropic</nf:credit><nf:license>Company press image</nf:license><nf:source>https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg</nf:source></nf:hero>
+      <media:content url="https://assets.thehansindia.com/h-upload/2026/09/23/1705186-elon-musk.jpg" medium="image"><media:credit>The Hans India</media:credit></media:content>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elon_Musk_%2854816836217%29_%28cropped_2%29.jpg/500px-Elon_Musk_%2854816836217%29_%28cropped_2%29.jpg" medium="image"><media:credit>The Hans India</media:credit></media:content>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/279820b409dee674e6af34058ead08bd0570d41754e15dacfa6bbbee3a77971e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2Fbb68400aef980aab20c6bb8458ebf33f.jpg" medium="image"><media:credit>Benzinga</media:credit></media:content>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/7cfb72e535851a227ceebf9cc01aac5e4891ec110830a1b6459fae2da08d9ea5/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2FBenzinga%2Fbb68400aef980aab20c6bb8458ebf33f.jpg" medium="image"><media:credit>Benzinga</media:credit></media:content>
+      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit>Anthropic</media:credit></media:content>
+      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-5-of-shares-to-new-public-benefit-fund.jpg" medium="image"><media:credit>Anthropic</media:credit></media:content>
+      <media:content url="https://media.assettype.com/freepressjournal/2026-06-13/li22xwf1/Untitled-design-2026-06-13T115106.959.jpg?width=1200" medium="image"><media:credit>Free Press Journal</media:credit></media:content>
+      <media:content url="https://cdn.nairametrics.com/wp-content/uploads/2026/09/anthropic-1.webp" medium="image"><media:credit>Free Press Journal</media:credit></media:content>
     </item>
     <item>
       <title>Meta just blamed Claude for knocking a protest group off Instagram</title>
@@ -175,6 +281,17 @@
       <category domain="https://startupfortune.com/meta-blames-anthropics-claude-for-wrongly-suspending-no-kings-instagram/">Startup Fortune</category>
       <category domain="https://cryptobriefing.com/meta-ai-tool-no-kings-instagram-suspension/">Crypto Briefing</category>
       <category domain="https://www.tokenpost.com/news/technology/34520">TokenPost</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>true</nf:sensitive>
+
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad3d5475bc5f-1792267591.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit>Jose Luis Magana/AP</media:credit></media:content>
+      <media:content url="https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-17T160435Z_1064120291_RC245OAR8EI9_RTRMADP_3_USA-ELECTION-EARLYVOTING-1024x683.jpg" medium="image"><media:credit>Jose Luis Magana/AP</media:credit></media:content>
+      <media:content url="https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-17T155740Z_313042002_RC235OAISVNA_RTRMADP_3_USA-ELECTION-EARLYVOTING-NEWYORK-1024x683.jpg" medium="image"><media:credit>Eduardo Munoz/Reuters</media:credit></media:content>
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad3d76565d33-1792268133.jpg?resize=770%2C513&amp;quality=80" medium="image"><media:credit>Eduardo Munoz/Reuters</media:credit></media:content>
+      <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/meta-anthropic-no-kings-coalition.jpg" medium="image"><media:credit>Startup Fortune</media:credit></media:content>
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3d477-1792267383.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit>Startup Fortune</media:credit></media:content>
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3d922-1792268578.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit>Megan Varner/Reuters</media:credit></media:content>
+      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad3d4f2cf6e-1792267506.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit>Megan Varner/Reuters</media:credit></media:content>
     </item>
     <item>
       <title>Anthropic just pledged $48 billion in stock to a fund that grows as the company grows</title>
@@ -187,6 +304,17 @@
       <category domain="https://finance.yahoo.com/technology/ai/articles/anthropic-commit-5-stake-public-191115841.html">Reuters via Yahoo Finance</category>
       <category domain="https://uk.finance.yahoo.com/news/anthropic-commits-billions-public-benefit-184601337.html">Business Insider via Yahoo Finance</category>
       <category domain="https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/">Unite.AI</category>
+      <nf:category>breaking</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-18-anthropic-48-billion-public-benefit-fund/hero.jpg" width="2000" height="1126" ai="false"><nf:alt>Image for: Anthropic just pledged $48 billion in stock to a fund that grows as the company grows</nf:alt><nf:credit>Anthropic</nf:credit><nf:license>Company press image</nf:license><nf:source>https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg</nf:source></nf:hero>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/8fa442fae60d16e8b00bfbb059d367e900f522a5658f50275a08d605c1bfd1c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3b5473ed527d18e59a87dd506ac14784.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://news.stocktwits-cdn.com/large_Getty_Images_2297777279_225c04fb05.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
+      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg" medium="image"><media:credit>Anthropic</media:credit></media:content>
+      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit>Anthropic</media:credit></media:content>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/1d47480ca95d642dd734aff7f5e81e4a9fbfbbc458ddb3597dd5807206834243/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F0b15f871174f30957b43938c5dfd8d35.jpg" medium="image"><media:credit>Business Insider</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit>Business Insider</media:credit></media:content>
+      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-5-of-shares-to-new-public-benefit-fund.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
+      <media:content url="https://cdn.nairametrics.com/wp-content/uploads/2026/09/anthropic-1.webp" medium="image"><media:credit>Unite.AI</media:credit></media:content>
     </item>
     <item>
       <title>AI could soon haggle over your salary. Anthropic is asking lawyers how to make it fair</title>
@@ -199,6 +327,16 @@
       <category domain="https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/">The Decoder</category>
       <category domain="https://aiweekly.co/alerts/anthropic-consults-law-firms-on-negotiation-norms-for-ai-agents">AI Weekly</category>
       <category domain="https://www.newsbytesapp.com/news/science/anthropic-explores-letting-ai-agents-negotiate-deals-on-users-behalf/story">NewsBytes</category>
+      <nf:category>policy</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+
+      <media:content url="https://resource.tradingkey.com/uploads/20260604/anthropic-1-7c6c2e8535f546d6bd9c17af156a4b7f.jpg" medium="image"><media:credit>TradingKey</media:credit></media:content>
+      <media:content url="https://investinglive.com/cms/media/Processed/Categories/featured/Anthropic%20releases%20Claude%20Fabel%205_id_f3726a04-70aa-4739-b9cc-37c5f5f4f589_original-featured-1792017089.jpg" medium="image"><media:credit>TradingKey</media:credit></media:content>
+      <media:content url="https://www.pymnts.com/wp-content/uploads/2026/10/AI-lawyers-negotiation-1.jpg" medium="image"><media:credit>PYMNTS</media:credit></media:content>
+      <media:content url="https://i.cdn.newsbytesapp.com/images/l27820261018161045.jpeg" medium="image"><media:credit>PYMNTS</media:credit></media:content>
+      <media:content url="https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png" medium="image"><media:credit>The Decoder</media:credit></media:content>
+      <media:content url="https://static.wixstatic.com/media/c5719c_e03735f41f354729992e5d12142276da~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/c5719c_e03735f41f354729992e5d12142276da~mv2.png" medium="image"><media:credit>NewsBytes</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit>jackpress / Shutterstock</media:credit></media:content>
     </item>
     <item>
       <title>Sam Altman says OpenAI will build a humanoid robot. He expects a demo in 2027</title>
@@ -211,6 +349,15 @@
       <category domain="https://tbreak.com/openai-humanoid-robot/">Tbreak</category>
       <category domain="https://dev.ua/en/news/humanoidnyi-robot-vid-openai-1789463163">dev.ua (citing Fortune)</category>
       <category domain="https://finance.biggo.com/news/66329e60-850c-495b-aba0-0bf87d810207">BigGo Finance</category>
+      <nf:category>robotics</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+
+      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/intro-1791892991.jpg" medium="image"><media:credit>Sources YouTube Channel</media:credit></media:content>
+      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg" medium="image"><media:credit>Sources YouTube Channel</media:credit></media:content>
+      <media:content url="https://dev.ua/storage/images/16/14/92/08/derived/9a3f67d0fe9a31336a4d5c84669da524.webp" medium="image"><media:credit>Unsplash via dev.ua</media:credit></media:content>
+      <media:content url="https://tbreak.com/wp-content/uploads/2026/10/openai-humanoid-robot.jpg" medium="image"><media:credit>Unsplash via dev.ua</media:credit></media:content>
+      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/the-brain-has-to-make-the-body-useful-1791892992.jpg" medium="image"><media:credit>OpenAI via Engadget</media:credit></media:content>
+      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/openai-still-has-to-build-the-body-1791892993.jpg" medium="image"><media:credit>Kevin Frayer / Getty Images via Engadget</media:credit></media:content>
     </item>
   </channel>
 </rss>
