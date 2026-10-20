@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:16:55 GMT</lastBuildDate>
     <item>
       <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
       <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
@@ -42,6 +42,20 @@
       <category domain="https://cryptobriefing.com/openai-upgrades-model-cobol-fortran-legacy-code/">Crypto Briefing</category>
       <category domain="https://superpowerdaily.com/posts/openai-releases-coding-benchmark-and-reports-sharp-gains-in-cobol">Superpower Daily</category>
       <category domain="https://x.com/OpenAI/status/2112310345863930168">OpenAI on X</category>
+    </item>
+    <item>
+      <title>Smart TVs watch what you watch. People are now using Claude to rip out the ads and tracking</title>
+      <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-claude-code-strips-smart-tv-ads</guid>
+      <pubDate>Mon, 19 Oct 2026 16:13:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Gathin wrote: &quot;Vibe coded my parents' TV this afternoon! It was showing a sponsored ad before you could even get to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages and wrote a new launcher. Looks like an Apple TV now lol&quot; Gathin also made cleanyourtv, a free project that strips bloatware from Android TV and Google TV over Wi-Fi, needs no root access and adds a launcher that looks like Apple TV. Sources: TechCrunch, GovTech, Gathin on X, Ryan Doyle on X, cleanyourtv on GitHub, dumbtv on GitHub.</description>
+      <category domain="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/">TechCrunch</category>
+      <category domain="https://www.govtech.com/question-of-the-day/are-people-using-ai-to-dumb-down-their-smart-tvs">GovTech</category>
+      <category domain="https://x.com/gathint">Gathin on X</category>
+      <category domain="https://x.com/doooyle">Ryan Doyle on X</category>
+      <category domain="https://github.com/Gathin23/cleanyourtv">cleanyourtv on GitHub</category>
+      <category domain="https://github.com/humblemuzzu/dumbtv">dumbtv on GitHub</category>
     </item>
     <item>
       <title>Microsoft just admitted AI models cannot be trusted, even inside your own company</title>
@@ -185,18 +199,6 @@
       <category domain="https://tbreak.com/openai-humanoid-robot/">Tbreak</category>
       <category domain="https://dev.ua/en/news/humanoidnyi-robot-vid-openai-1789463163">dev.ua (citing Fortune)</category>
       <category domain="https://finance.biggo.com/news/66329e60-850c-495b-aba0-0bf87d810207">BigGo Finance</category>
-    </item>
-    <item>
-      <title>Hackers just got into OpenCode and may have your OpenAI and Claude keys</title>
-      <link>https://cybersecuritynews.com/opencode-security-breach/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-18-opencode-breach-ai-api-keys</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenCode, an open source AI coding platform, says someone gained unauthorized access to a legacy system it was in the process of shutting down. It emailed affected users on Saturday, October 17. Users who did not get an email were not affected, the company says. About 1.4% of Console users who linked outside AI providers are in scope. Their stored OpenAI, Anthropic and Google API keys may have been exposed. Sources: Cybersecurity News, Dealroom, Crypto Briefing, Blockonomi.</description>
-      <category domain="https://cybersecuritynews.com/opencode-security-breach/">Cybersecurity News</category>
-      <category domain="https://dealroom.co/news/163473-opencode-breach-drains-users-ai-keys-as-platforms-holding-customer-crede/">Dealroom</category>
-      <category domain="https://cryptobriefing.com/opencode-distillation-attack-api-key-breach/">Crypto Briefing</category>
-      <category domain="https://blockonomi.com/opencode-security-breach-exposes-api-keys-of-1-4-of-console-users">Blockonomi</category>
     </item>
   </channel>
 </rss>
