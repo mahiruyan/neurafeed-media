@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:06:14 GMT</lastBuildDate>
     <item>
       <title>Anthropic is about to spend another $45 billion on AI computing power</title>
       <link>https://www.investing.com/news/stock-market-news/nscale-in-talks-for-45-billion-anthropic-ai-deal-as-ipo-looms-4958181</link>
@@ -27,6 +27,18 @@
       <category domain="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/">Engineering at Meta</category>
       <category domain="https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72">StorageReview</category>
       <category domain="https://www.unite.ai/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus/">Unite.AI</category>
+    </item>
+    <item>
+      <title>You can now hunt for your next home without leaving Claude. Zillow just moved in</title>
+      <link>https://zillow.mediaroom.com/2026-10-19-Zillow-brings-specialized-housing-intelligence-to-Claude,-with-a-path-to-tours,-agents-and-financing</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-20-zillow-house-hunting-inside-claude</guid>
+      <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Zillow launched a connector for Claude on October 19. It lets you search homes for sale or rent, check home values and estimate what you can afford. Listings show up with photos, prices and interactive maps, and each one links back to Zillow. From the same conversation you can request a tour, connect with a real estate agent or explore financing. &quot;This connector helps Claude users take the next step through Zillow: a tour, an agent, a loan officer,&quot; said Josh Weisberg, Zillow's SVP of AI. Sources: Zillow (press release), Technobezz, Unite.AI, Zillow help page.</description>
+      <category domain="https://zillow.mediaroom.com/2026-10-19-Zillow-brings-specialized-housing-intelligence-to-Claude,-with-a-path-to-tours,-agents-and-financing">Zillow (press release)</category>
+      <category domain="https://www.technobezz.com/news/zillow-brings-home-search-tools-claude">Technobezz</category>
+      <category domain="https://www.unite.ai/zillow-launches-claude-connector-for-listings-tours-and-financing/">Unite.AI</category>
+      <category domain="https://www.zillow.com/connect-claude-to-zillow/">Zillow help page</category>
     </item>
     <item>
       <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
