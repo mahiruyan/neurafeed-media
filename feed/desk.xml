@@ -5,7 +5,29 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 02:17:42 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic's draft IPO filing just revealed an $80.7 billion loss in six months</title>
+      <link>https://www.benzinga.com/markets/private-markets/26/10/62484656/anthropic-lost-80-billion-in-six-months-as-ai-spending-soars-draft-ipo-filing-shows</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-21-anthropic-s1-80-billion-loss</guid>
+      <pubDate>Tue, 20 Oct 2026 19:47:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>Anthropic made about $16.3 billion in the first half of 2026, up from $1.1 billion a year earlier, per a draft prospectus viewed by The Wall Street Journal. Its net loss: $80.7 billion, up from $13 billion. About $72 billion of the loss came from non-cash accounting charges tied to convertible notes and other tools Anthropic used to raise money. Real spending still jumped: nearly $9 billion on computing and infrastructure in six months, up from $2.3 billion. Sources: Benzinga (citing The Wall Street Journal), Investing.com (citing The Wall Street Journal), Crypto Briefing.</description>
+      <category domain="https://www.benzinga.com/markets/private-markets/26/10/62484656/anthropic-lost-80-billion-in-six-months-as-ai-spending-soars-draft-ipo-filing-shows">Benzinga (citing The Wall Street Journal)</category>
+      <category domain="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Investing.com (citing The Wall Street Journal)</category>
+      <category domain="https://cryptobriefing.com/anthropic-ipo-draft-revenue-net-loss/">Crypto Briefing</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+
+      <media:content url="https://cdn.benzinga.com/cdn-cgi/image/width=3840,format=auto,quality=85/files/images/story/2026/10/20/Anthropic-Ipo-Initial-Public-Offering-On.jpg" medium="image"><media:credit>RixAiArt / Shutterstock</media:credit></media:content>
+      <media:content url="https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/20/Anthropic-Ipo-Initial-Public-Offering-On.jpg" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://img.ksl.com/slc/3204/320449/32044948.JPG" medium="image"><media:credit>Carlos Barria / Reuters</media:credit></media:content>
+      <media:content url="https://img.ksl.com/slc/3204/320449/32044948.JPG?filter=kslv2/responsive_story_lg" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://news.stocktwits-cdn.com/large_Getty_Images_2276989723_eb8b10972a.jpg" medium="image"><media:credit>Algi Febri Sugita / SOPA Images / Getty Images</media:credit></media:content>
+      <media:content url="https://s.yimg.com/lo/mysterio/api/19dff9fd4158ad8396e9d8470ea113968d36974ee433da0f6a56238b9f62a001/lightyear_networkapi/resizefill_w1200%3Bquality_80" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://cdn.geekwire.com/wp-content/uploads/2025/11/aws-data-center-interior-2.png" medium="image"><media:credit>Amazon via GeekWire</media:credit></media:content>
+      <media:content url="https://img.energytech.com/files/base/ebm/energytech/image/2026/03/69bc368671bddf0a99567bff-monarch_compute_campus_rendering.png?auto=format,compress&amp;w=1600" medium="image"><media:credit></media:credit></media:content>
+    </item>
     <item>
       <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
       <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
