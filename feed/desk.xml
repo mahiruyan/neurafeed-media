@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:06:35 GMT</lastBuildDate>
     <item>
       <title>OpenAI just moved into Google's house. Its models are coming to Google Cloud</title>
       <link>https://openai.com/index/openai-models-google-cloud/</link>
@@ -18,7 +18,7 @@
       <category domain="https://www.newsbytesapp.com/news/science/openai-s-ai-models-to-be-available-on-google-cloud/story">NewsBytes</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-models-google-cloud/hero.jpg" width="1920" height="1080" ai="false"><nf:alt>OpenAI just moved into Google's house. Its models are coming to Google Cloud</nf:alt><nf:credit>NewsBytes</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://i.cdn.newsbytesapp.com/images/l50320261021174946.jpeg</nf:source></nf:hero>
       <media:content url="https://i.cdn.newsbytesapp.com/images/l50320261021174946.jpeg" medium="image"><media:credit>NewsBytes</media:credit></media:content>
       <media:content url="https://www.webpronews.com/wp-content/uploads/2026/10/openai-google-cloud-model-garden-featured.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://cdn.digitaltoday.co.kr/news/photo/202610/708992_656586_4439.jpg" medium="image"><media:credit></media:credit></media:content>
@@ -60,7 +60,7 @@
       <category domain="https://www.unite.ai/openai-discloses-two-cases-of-agents-weakening-misalignment-monitoring/">Unite.AI</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-agents-switched-off-alarms/hero.jpg" width="1200" height="800" ai="false"><nf:alt>OpenAI's own AI agents switched off the alarms built to catch them misbehaving</nf:alt><nf:credit>City AM</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.cityam.com/wp-content/uploads/2026/01/Sam-Altman-OpenAI-ChatGPT-e1768841114333.jpg</nf:source></nf:hero>
       <media:content url="https://www.cityam.com/wp-content/uploads/2026/01/Sam-Altman-OpenAI-ChatGPT-e1768841114333.jpg" medium="image"><media:credit>City AM</media:credit></media:content>
       <media:content url="https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/openai-mark-levine-gpt-6-astra.jpg" medium="image"><media:credit>Startup Fortune</media:credit></media:content>
@@ -82,7 +82,7 @@
       <category domain="https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/">The Decoder</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-buys-orchestra-bio/hero.jpg" width="1200" height="676" ai="false"><nf:alt>OpenAI just bought a biotech startup to put AI agents inside drug development</nf:alt><nf:credit>Decrypt</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://s.yimg.com/lo/mysterio/api/e1808da0f4404ea1edbc77d9187e049a86ba38aecac5d1ed690ee29995feac1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb108fea5d838c52daac88932cd212670.jpg</nf:source></nf:hero>
       <media:content url="https://s.yimg.com/lo/mysterio/api/e1808da0f4404ea1edbc77d9187e049a86ba38aecac5d1ed690ee29995feac1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb108fea5d838c52daac88932cd212670.jpg" medium="image"><media:credit>Decrypt</media:credit></media:content>
       <media:content url="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg" medium="image"><media:credit></media:credit></media:content>
@@ -104,7 +104,7 @@
       <category domain="https://investinglive.com/stocks/spacex-beats-q3-forecasts-across-all-three-segments-as-ai-revenue-tops-7-5-billion/">investingLive</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-spacex-ai-out-earns-starlink/hero.jpg" width="1200" height="1274" ai="false"><nf:alt>Elon Musk's AI business just made more money than Starlink</nf:alt><nf:credit>SpaceX</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://s.yimg.com/lo/mysterio/api/c9f66c5ee0398f0ed778c4a9dc90bd84c750e392fd15ff2661fdc24798b365aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0</nf:source></nf:hero>
       <media:content url="https://s.yimg.com/lo/mysterio/api/c9f66c5ee0398f0ed778c4a9dc90bd84c750e392fd15ff2661fdc24798b365aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0" medium="image"><media:credit>SpaceX</media:credit></media:content>
       <media:content url="https://s.yimg.com/lo/mysterio/api/60bc786780ae0bf261c626ca9a398d873f86dd24c23993d08a43ee2410f46c91/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg" medium="image"><media:credit>Spencer Platt / Getty Images</media:credit></media:content>
@@ -124,7 +124,7 @@
       <category domain="https://cryptobriefing.com/anthropic-ipo-draft-revenue-net-loss/">Crypto Briefing</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-anthropic-s1-80-billion-loss/hero.jpg" width="1228" height="690" ai="false"><nf:alt>Anthropic's draft IPO filing just revealed an $80.7 billion loss in six months</nf:alt><nf:credit>img.ksl.com</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://img.ksl.com/slc/3204/320449/32044948.JPG?filter=kslv2/responsive_story_lg</nf:source></nf:hero>
       <media:content url="https://cdn.benzinga.com/cdn-cgi/image/width=3840,format=auto,quality=85/files/images/story/2026/10/20/Anthropic-Ipo-Initial-Public-Offering-On.jpg" medium="image"><media:credit>RixAiArt / Shutterstock</media:credit></media:content>
       <media:content url="https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/20/Anthropic-Ipo-Initial-Public-Offering-On.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://img.ksl.com/slc/3204/320449/32044948.JPG" medium="image"><media:credit>Carlos Barria / Reuters</media:credit></media:content>
@@ -148,7 +148,7 @@
       <category domain="https://www.trendingtopics.eu/meta-muse-agent-10-million-downloads/">Trending Topics</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-meta-muse-10-million-downloads/hero.jpg" width="1920" height="1080" ai="false"><nf:alt>Meta's Muse just hit 10 million US downloads in 40 days. ChatGPT needed 123</nf:alt><nf:credit>Meta</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1920-80.jpg</nf:source></nf:hero>
       <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1920-80.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
       <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1200-80.jpg" medium="image"><media:credit></media:credit></media:content>
@@ -171,7 +171,7 @@
       <category domain="https://www.androidpure.com/gemini-personal-intelligence-android-auto/">Androidpure</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-gemini-android-auto-reads-your-apps/hero.jpg" width="1420" height="800" ai="false"><nf:alt>Google's Gemini can now dig through your Gmail and Photos while you drive</nf:alt><nf:credit>Android Headlines</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Android-Auto-Logo-1420x799.webp</nf:source></nf:hero>
       <media:content url="https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Android-Auto-Logo-1420x799.webp" medium="image"><media:credit>Android Headlines</media:credit></media:content>
       <media:content url="https://www.androidpure.com/wp-content/uploads/2026/10/gemini-personal-intelligence-android-auto-hero.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200" medium="image"><media:credit>Google</media:credit></media:content>
@@ -320,7 +320,7 @@
       <category domain="https://www.unite.ai/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus/">Unite.AI</category>
       <nf:category>companies</nf:category>
       <nf:sensitive>false</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-meta-prometheus-million-gpus/hero.jpg" width="2000" height="1232" ai="false"><nf:alt>Meta's AI supercomputer in Ohio is racing toward 1 million GPUs</nf:alt><nf:credit>Meta</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg</nf:source></nf:hero>
       <media:content url="https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
       <media:content url="https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Meta-Prometheus-New-Albany-aerial.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus.jpg" medium="image"><media:credit></media:credit></media:content>
@@ -363,7 +363,7 @@
       <category domain="https://www.ibtimes.co.uk/its-not-script-kiddie-stuff-hacker-reportedly-uses-ai-breach-corporate-sites-just-50-1826483">IBTimes UK</category>
       <nf:category>breaking</nf:category>
       <nf:sensitive>true</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-ai-agents-hacked-100-sites-50-each/hero.jpg" width="1200" height="800" ai="false"><nf:alt>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</nf:alt><nf:credit>cryptonomist.ch</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg</nf:source></nf:hero>
       <media:content url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/19/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_3_AI-CYBERCRIME.JPG" medium="image"><media:credit>Reuters</media:credit></media:content>
       <media:content url="https://cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://en.cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit>The Cryptonomist</media:credit></media:content>
@@ -409,7 +409,7 @@
       <category domain="https://www.newsbytesapp.com/news/world/abdulrahman-alfozan-arrested-filings-show-whatsapp-contact-with-saudi-royal/tldr">NewsBytes</category>
       <nf:category>policy</nf:category>
       <nf:sensitive>true</nf:sensitive>
-
+      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-openai-bug-suspect-saudi-royal-whatsapp/hero.jpg" width="1200" height="630" ai="false"><nf:alt>The OpenAI bugging suspect was texting a Saudi royal days before his arrest, feds say</nf:alt><nf:credit>www.aljazeera.com</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&amp;quality=80</nf:source></nf:hero>
       <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934.jpg" medium="image"><media:credit>U.S. Department of Justice via Reuters</media:credit></media:content>
       <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&amp;quality=80" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://assets.qz.com/media/GettyImages-2266383509-1920x1280.jpg" medium="image"><media:credit>SOPA Images / Getty Images</media:credit></media:content>
