@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:10:31 GMT</lastBuildDate>
     <item>
       <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
       <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
@@ -337,27 +337,6 @@
       <media:content url="https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png" medium="image"><media:credit>The Decoder</media:credit></media:content>
       <media:content url="https://static.wixstatic.com/media/c5719c_e03735f41f354729992e5d12142276da~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/c5719c_e03735f41f354729992e5d12142276da~mv2.png" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit>jackpress / Shutterstock</media:credit></media:content>
-    </item>
-    <item>
-      <title>Sam Altman says OpenAI will build a humanoid robot. He expects a demo in 2027</title>
-      <link>https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-18-altman-openai-humanoid-robot-2027</guid>
-      <pubDate>Sat, 17 Oct 2026 23:45:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>On the Sources podcast, Altman was asked if OpenAI would build a humanoid robot. His answer: &quot;We will.&quot; He said the human shape makes sense because &quot;the world is very much designed for people,&quot; so &quot;matching that form factor seems good.&quot; Altman says the robot's looks are &quot;less important than really figuring out ... the brain that makes the robot work.&quot; OpenAI has tried robotics before. Its Dactyl project trained a robot hand in simulation, and the same approach was later used to solve a Rubik's Cube. Sources: Engadget, Tbreak, dev.ua (citing Fortune), BigGo Finance.</description>
-      <category domain="https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/">Engadget</category>
-      <category domain="https://tbreak.com/openai-humanoid-robot/">Tbreak</category>
-      <category domain="https://dev.ua/en/news/humanoidnyi-robot-vid-openai-1789463163">dev.ua (citing Fortune)</category>
-      <category domain="https://finance.biggo.com/news/66329e60-850c-495b-aba0-0bf87d810207">BigGo Finance</category>
-      <nf:category>robotics</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-18-altman-openai-humanoid-robot-2027/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>Sam Altman says OpenAI will build a humanoid robot. He expects a demo in 2027</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
-      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/intro-1791892991.jpg" medium="image"><media:credit>Sources YouTube Channel</media:credit></media:content>
-      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://dev.ua/storage/images/16/14/92/08/derived/9a3f67d0fe9a31336a4d5c84669da524.webp" medium="image"><media:credit>Unsplash via dev.ua</media:credit></media:content>
-      <media:content url="https://tbreak.com/wp-content/uploads/2026/10/openai-humanoid-robot.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/the-brain-has-to-make-the-body-useful-1791892992.jpg" medium="image"><media:credit>OpenAI via Engadget</media:credit></media:content>
-      <media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/openai-still-has-to-build-the-body-1791892993.jpg" medium="image"><media:credit>Kevin Frayer / Getty Images via Engadget</media:credit></media:content>
     </item>
   </channel>
 </rss>
