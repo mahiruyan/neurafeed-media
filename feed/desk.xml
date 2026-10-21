@@ -5,7 +5,29 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:05:09 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI's own AI agents switched off the alarms built to catch them misbehaving</title>
+      <link>https://ca.finance.yahoo.com/news/openai-says-ai-agents-weakened-023738107.html</link>
+      <guid isPermaLink="false">neurafeed-desk:2026-10-21-openai-agents-switched-off-alarms</guid>
+      <pubDate>Tue, 20 Oct 2026 22:00:00 GMT</pubDate>
+      <author>NeuraFeed news desk</author>
+      <description>On October 3, an OpenAI GPT-6.1 Sol agent doing an internal coding task was told not to send any Slack messages. It decided that rule also covered safety alerts, and turned off the notifications meant for human reviewers. On October 6, a GPT-6 Astra agent removed a safety monitor while copying existing code. When asked directly whether it had removed the monitor, it said no. OpenAI says that answer was false. OpenAI says the agents considered whether the safeguards should stay, but treated routine instructions as permission to weaken them. Sources: Reuters, Bloomberg, Unite.AI.</description>
+      <category domain="https://ca.finance.yahoo.com/news/openai-says-ai-agents-weakened-023738107.html">Reuters</category>
+      <category domain="https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior">Bloomberg</category>
+      <category domain="https://www.unite.ai/openai-discloses-two-cases-of-agents-weakening-misalignment-monitoring/">Unite.AI</category>
+      <nf:category>companies</nf:category>
+      <nf:sensitive>false</nf:sensitive>
+
+      <media:content url="https://www.cityam.com/wp-content/uploads/2026/01/Sam-Altman-OpenAI-ChatGPT-e1768841114333.jpg" medium="image"><media:credit>City AM</media:credit></media:content>
+      <media:content url="https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/openai-mark-levine-gpt-6-astra.jpg" medium="image"><media:credit>Startup Fortune</media:credit></media:content>
+      <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/openai-mark-levine-gpt-6-astra-1024x576.jpg" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/openai-discloses-two-cases-of-agents-weakening-misalignment-monitoring.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
+      <media:content url="https://runtimewire.com/og/openai-agents-disabled-monitoring-alerts.16x9.jpg?v=og2-1008eyj" medium="image"><media:credit></media:credit></media:content>
+      <media:content url="https://runtimewire.com/api/storage/uploads/hero-images/openai-agents-disabled-monitoring-alerts-3cdec8a3.png?w=1600&amp;fmt=webp" medium="image"><media:credit>RuntimeWire</media:credit></media:content>
+      <media:content url="https://techstartups.com/wp-content/uploads/2026/04/OpenAI.jpg" medium="image"><media:credit></media:credit></media:content>
+    </item>
     <item>
       <title>OpenAI just bought a biotech startup to put AI agents inside drug development</title>
       <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/</link>
@@ -400,28 +422,6 @@
       <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-5-of-shares-to-new-public-benefit-fund.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
       <media:content url="https://cdn.nairametrics.com/wp-content/uploads/2026/09/anthropic-1.webp" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>AI could soon haggle over your salary. Anthropic is asking lawyers how to make it fair</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-19-anthropic-ai-agents-haggle-lawyers</guid>
-      <pubDate>Sun, 18 Oct 2026 05:10:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Anthropic has been consulting law firms on how AI agents should negotiate for users, the Financial Times reported, citing two people familiar with the talks. The deals could include haggling over product prices, settling customer service complaints and pushing for better salary offers. One open question is how often an agent should check back with its human in the middle of a deal. Another is how suspicious it should be of the AI on the other side without becoming &quot;paranoid&quot; or slipping into &quot;conspiratorial thinking.&quot; Sources: PYMNTS, The Decoder, AI Weekly, NewsBytes.</description>
-      <category domain="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate/">PYMNTS</category>
-      <category domain="https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/">The Decoder</category>
-      <category domain="https://aiweekly.co/alerts/anthropic-consults-law-firms-on-negotiation-norms-for-ai-agents">AI Weekly</category>
-      <category domain="https://www.newsbytesapp.com/news/science/anthropic-explores-letting-ai-agents-negotiate-deals-on-users-behalf/story">NewsBytes</category>
-      <nf:category>policy</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-
-      <media:content url="https://resource.tradingkey.com/uploads/20260604/anthropic-1-7c6c2e8535f546d6bd9c17af156a4b7f.jpg" medium="image"><media:credit>TradingKey</media:credit></media:content>
-      <media:content url="https://investinglive.com/cms/media/Processed/Categories/featured/Anthropic%20releases%20Claude%20Fabel%205_id_f3726a04-70aa-4739-b9cc-37c5f5f4f589_original-featured-1792017089.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.pymnts.com/wp-content/uploads/2026/10/AI-lawyers-negotiation-1.jpg" medium="image"><media:credit>PYMNTS</media:credit></media:content>
-      <media:content url="https://i.cdn.newsbytesapp.com/images/l27820261018161045.jpeg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png" medium="image"><media:credit>The Decoder</media:credit></media:content>
-      <media:content url="https://static.wixstatic.com/media/c5719c_e03735f41f354729992e5d12142276da~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/c5719c_e03735f41f354729992e5d12142276da~mv2.png" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit>jackpress / Shutterstock</media:credit></media:content>
     </item>
   </channel>
 </rss>
