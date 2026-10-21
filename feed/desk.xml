@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:02:13 GMT</lastBuildDate>
     <item>
       <title>OpenAI just moved into Google's house. Its models are coming to Google Cloud</title>
       <link>https://openai.com/index/openai-models-google-cloud/</link>
@@ -465,29 +465,6 @@
       <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3d477-1792267383.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3d922-1792268578.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit>Megan Varner/Reuters</media:credit></media:content>
       <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad3d4f2cf6e-1792267506.jpg?fit=1170%2C780&amp;quality=80" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Anthropic just pledged $48 billion in stock to a fund that grows as the company grows</title>
-      <link>https://www.anthropic.com/news/public-benefit-fund</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-18-anthropic-48-billion-public-benefit-fund</guid>
-      <pubDate>Sun, 18 Oct 2026 18:30:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Anthropic announced Sunday that it will commit 5% of its shares to a new Anthropic Public Benefit Fund, subject to stockholder approval. Business Insider valued that stake at about $48 billion, based on Anthropic's most recent valuation. The board can add 2% more shares for every 50% increase in Anthropic's value above a set baseline, which has not been disclosed. Anthropic says it will share details on the fund's governance, structure and valuation milestones in the coming months. Sources: Anthropic, Reuters via Yahoo Finance, Business Insider via Yahoo Finance, Unite.AI.</description>
-      <category domain="https://www.anthropic.com/news/public-benefit-fund">Anthropic</category>
-      <category domain="https://finance.yahoo.com/technology/ai/articles/anthropic-commit-5-stake-public-191115841.html">Reuters via Yahoo Finance</category>
-      <category domain="https://uk.finance.yahoo.com/news/anthropic-commits-billions-public-benefit-184601337.html">Business Insider via Yahoo Finance</category>
-      <category domain="https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/">Unite.AI</category>
-      <nf:category>breaking</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-18-anthropic-48-billion-public-benefit-fund/hero.jpg" width="2000" height="1126" ai="false"><nf:alt>Anthropic just pledged $48 billion in stock to a fund that grows as the company grows</nf:alt><nf:credit>Anthropic</nf:credit><nf:license>Company press image</nf:license><nf:source>https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg</nf:source></nf:hero>
-      <media:content url="https://s.yimg.com/lo/mysterio/api/8fa442fae60d16e8b00bfbb059d367e900f522a5658f50275a08d605c1bfd1c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3b5473ed527d18e59a87dd506ac14784.jpg" medium="image"><media:credit>Reuters</media:credit></media:content>
-      <media:content url="https://news.stocktwits-cdn.com/large_Getty_Images_2297777279_225c04fb05.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/cbdc2eac6dfb37cf596d8f9fb32783036b5737c2-2000x1125.jpg" medium="image"><media:credit>Anthropic</media:credit></media:content>
-      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://s.yimg.com/lo/mysterio/api/1d47480ca95d642dd734aff7f5e81e4a9fbfbbc458ddb3597dd5807206834243/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F0b15f871174f30957b43938c5dfd8d35.jpg" medium="image"><media:credit>Business Insider</media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-5-of-shares-to-new-public-benefit-fund.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
-      <media:content url="https://cdn.nairametrics.com/wp-content/uploads/2026/09/anthropic-1.webp" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
