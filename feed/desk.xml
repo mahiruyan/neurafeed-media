@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:57:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:07:54 GMT</lastBuildDate>
     <item>
       <title>Meta made $64.6 billion in three months. Its AI spending still burned through all the cash</title>
       <link>https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/</link>
@@ -422,29 +422,6 @@
       <media:content url="https://mmx.prnewswire.com/media/MS2016287/Zillow-Claude-connector-For-Sale-Prompt.jpg?id=OA3027249" medium="image"><media:credit>Zillow</media:credit></media:content>
       <media:content url="https://mmx.prnewswire.com/media/MS2016288/Zillow-Claude-connector-For-Rent-Prompt.jpg?id=OA3027250" medium="image"><media:credit>Zillow</media:credit></media:content>
       <media:content url="https://mmx.prnewswire.com/media/MS2016288/Zillow-Claude-connector-For-Rent-Prompt.jpg?id=OA3027250&amp;p=thumbnail" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</title>
-      <link>https://wtvbam.com/2026/10/19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-19-ai-agents-hacked-100-sites-50-each</guid>
-      <pubDate>Mon, 19 Oct 2026 10:06:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>A Chinese-speaking hacker used AI agents to break into the websites of more than 100 companies, Reuters reports. Named victims include Deere, SharkNinja and Cummins. Deere says it saw no sign sensitive information was accessed. SharkNinja says only a standalone support site was hit and the threat was contained. The attacker used Cairn, an open source platform that takes a target and a goal and sets AI agents to work on it step by step. Sources: Reuters, The Next Web, PYMNTS, IBTimes UK.</description>
-      <category domain="https://wtvbam.com/2026/10/19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/">Reuters</category>
-      <category domain="https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge">The Next Web</category>
-      <category domain="https://pymnts.com/news/artificial-intelligence/2026/hackers-use-ai-agents-to-do-hacking-for-them">PYMNTS</category>
-      <category domain="https://www.ibtimes.co.uk/its-not-script-kiddie-stuff-hacker-reportedly-uses-ai-breach-corporate-sites-just-50-1826483">IBTimes UK</category>
-      <nf:category>breaking</nf:category>
-      <nf:sensitive>true</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-ai-agents-hacked-100-sites-50-each/hero.jpg" width="1200" height="800" ai="false"><nf:alt>One hacker let AI agents break into 100+ company websites. Each hack cost about $50</nf:alt><nf:credit>cryptonomist.ch</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg</nf:source></nf:hero>
-      <media:content url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/19/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_3_AI-CYBERCRIME.JPG" medium="image"><media:credit>Reuters</media:credit></media:content>
-      <media:content url="https://cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://en.cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking.jpeg" medium="image"><media:credit>The Cryptonomist</media:credit></media:content>
-      <media:content url="https://en.cryptonomist.ch/wp-content/uploads/2026/10/ai-autonomous-hacking-696x464.jpeg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://d.ibtimes.co.uk/en/full/1837668/cyberhacking.png" medium="image"><media:credit>Kevin Horvat / Unsplash</media:credit></media:content>
-      <media:content url="https://www.pymnts.com/wp-content/uploads/2024/08/cybersecurity-hackers-data-breach.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.jpg" medium="image"><media:credit>Tiero via Canva</media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.avif" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
