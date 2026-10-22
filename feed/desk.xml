@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:03:09 GMT</lastBuildDate>
     <item>
       <title>Meta made $64.6 billion in three months. Its AI spending still burned through all the cash</title>
       <link>https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/</link>
@@ -445,30 +445,6 @@
       <media:content url="https://www.pymnts.com/wp-content/uploads/2024/08/cybersecurity-hackers-data-breach.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.jpg" medium="image"><media:credit>Tiero via Canva</media:credit></media:content>
       <media:content url="https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.avif" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Elon Musk just promised a SpaceX share to every kid in America</title>
-      <link>https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-19-musk-spacex-share-every-us-kid</guid>
-      <pubDate>Mon, 19 Oct 2026 07:52:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>On Monday, Musk wrote on X: &quot;Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.&quot; There are just over 72 million people under 18 in the U.S., according to Census Bureau figures cited by Axios. SpaceX shares closed at $146.03 on Friday. At that price, one share per child adds up to a little over $10.5 billion. Musk owns billions of SpaceX shares, so Axios notes the giveaway would barely dent his stake. Sources: Axios, The National Desk (with AP), The Decoder, Fox Business, Elon Musk on X.</description>
-      <category domain="https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids">Axios</category>
-      <category domain="https://thenationaldesk.com/news/americas-news-now/tesla-ceo-billionaire-elon-musk-vows-a-spacex-share-for-every-us-child-next-year-2027-says-its-the-first-of-many-artificial-super-intelligence-anthropic-public-benefit-fund">The National Desk (with AP)</category>
-      <category domain="https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/">The Decoder</category>
-      <category domain="https://www.foxbusiness.com/fox-news-tech/elon-musk-spacex-shares-american-children-giveaway">Fox Business</category>
-      <category domain="https://x.com/elonmusk/status/2112089556615123114">Elon Musk on X</category>
-      <nf:category>breaking</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-musk-spacex-share-every-us-kid/hero.jpg" width="1200" height="630" ai="false"><nf:alt>Elon Musk just promised a SpaceX share to every kid in America</nf:alt><nf:credit>Anthropic</nf:credit><nf:license>Company press image</nf:license><nf:source>https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg</nf:source></nf:hero>
-      <media:content url="https://thenationaldesk.com/resources/media2/3x4/4320/960/2160x0/90/75984aec-ca40-4e06-b6de-6e39ca029233-AP26281662471891.jpg" medium="image"><media:credit>AP Photo/Julia Demaree Nikhinson</media:credit></media:content>
-      <media:content url="https://thenationaldesk.com/resources/media2/16x9/8640/986/0x450/90/75984aec-ca40-4e06-b6de-6e39ca029233-AP26281662471891.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://images.axios.com/t2-DL4LSdXP8fF7jo6o6CZvfeAE=/0x144:4109x2455/1366x768/2026/10/19/1792400108991.jpeg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/elon-musk-wef.png?ve=1&amp;tl=1" medium="image"><media:credit>Fabrice Coffrini / AFP via Getty Images</media:credit></media:content>
-      <media:content url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/1024/512/elon-musk-wef.png?ve=1&amp;tl=1" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://the-decoder.com/wp-content/uploads/2026/10/Anthropic-Public-Benefit-Fund-2000x1125-1.webp" medium="image"><media:credit>Anthropic</media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/07/shotwell-spacex-stock-trump-accounts.jpg" medium="image"><media:credit>NASA/Jay Westcott</media:credit></media:content>
     </item>
   </channel>
 </rss>
