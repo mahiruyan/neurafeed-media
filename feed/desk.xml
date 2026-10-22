@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:56:11 GMT</lastBuildDate>
     <item>
       <title>Meta made $64.6 billion in three months. Its AI spending still burned through all the cash</title>
       <link>https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/</link>
@@ -74,24 +74,6 @@
       <media:content url="https://research.jfrog.com/img/RealTimePostImage/post/php2shell/image.png" medium="image"><media:credit>JFrog Security Research</media:credit></media:content>
       <media:content url="https://runtimewire.com/og/openai-ai-assisted-php-critical-vulnerabilities.16x9.jpg?v=og2-1u98ijg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://static.cryptobriefing.com/wp-content/uploads/2026/10/21123942/library-openai-flags-two-critical-php-flaws-and-ships-a-tool-to--800x450.png" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>OpenAI just moved into Google's house. Its models are coming to Google Cloud</title>
-      <link>https://openai.com/index/openai-models-google-cloud/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-openai-models-google-cloud</guid>
-      <pubDate>Wed, 21 Oct 2026 12:22:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenAI said Wednesday its frontier models and Codex agent workflows are coming to Model Garden, Google Cloud's AI model marketplace. Google makes Gemini, a direct rival to ChatGPT. Wide availability is planned in the coming weeks. Companies can buy OpenAI models through Google Cloud Marketplace and draw down the spending they already committed to Google. Regulated industries get Google's access controls and data governance on top. Sources: OpenAI, Investing.com, NewsBytes.</description>
-      <category domain="https://openai.com/index/openai-models-google-cloud/">OpenAI</category>
-      <category domain="https://www.investing.com/news/stock-market-news/openai-expands-google-cloud-access-as-ai-rivals-deepen-ties-4962939">Investing.com</category>
-      <category domain="https://www.newsbytesapp.com/news/science/openai-s-ai-models-to-be-available-on-google-cloud/story">NewsBytes</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-models-google-cloud/hero.jpg" width="1920" height="1080" ai="false"><nf:alt>OpenAI just moved into Google's house. Its models are coming to Google Cloud</nf:alt><nf:credit>NewsBytes</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://i.cdn.newsbytesapp.com/images/l50320261021174946.jpeg</nf:source></nf:hero>
-      <media:content url="https://i.cdn.newsbytesapp.com/images/l50320261021174946.jpeg" medium="image"><media:credit>NewsBytes</media:credit></media:content>
-      <media:content url="https://www.webpronews.com/wp-content/uploads/2026/10/openai-google-cloud-model-garden-featured.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://cdn.digitaltoday.co.kr/news/photo/202610/708992_656586_4439.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&amp;h=900&amp;fit=fill" medium="image"><media:credit>OpenAI</media:credit></media:content>
     </item>
     <item>
       <title>Claude spent 64 hours designing scorpion venom blockers. 17 just passed real lab tests</title>
