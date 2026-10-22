@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 03:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:01:34 GMT</lastBuildDate>
     <item>
       <title>Meta made $64.6 billion in three months. Its AI spending still burned through all the cash</title>
       <link>https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/</link>
@@ -469,28 +469,6 @@
       <media:content url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://the-decoder.com/wp-content/uploads/2026/10/Anthropic-Public-Benefit-Fund-2000x1125-1.webp" medium="image"><media:credit>Anthropic</media:credit></media:content>
       <media:content url="https://media.thenextweb.com/2026/07/shotwell-spacex-stock-trump-accounts.jpg" medium="image"><media:credit>NASA/Jay Westcott</media:credit></media:content>
-    </item>
-    <item>
-      <title>The OpenAI bugging suspect was texting a Saudi royal days before his arrest, feds say</title>
-      <link>https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-19-openai-bug-suspect-saudi-royal-whatsapp</guid>
-      <pubDate>Mon, 19 Oct 2026 06:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Prosecutors say Abdulrahman Alfozan, the former OpenAI engineer accused of bugging an executive conference room, was in frequent WhatsApp contact with a Saudi royal in 2025 and 2026. The royal is not named. Their most recent contact was on October 5, four days before his arrest. The filing says the royal tried to recruit him to an AI initiative in Saudi Arabia. Alfozan allegedly agreed, but said he would not leave OpenAI until his stock vested. Prosecutors do not say the royal directed the device or any theft of information. Sources: CNBC, Quartz, NewsBytes.</description>
-      <category domain="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html">CNBC</category>
-      <category domain="https://qz.com/openai-bugging-suspect-saudi-royal-whatsapp-contact-101926">Quartz</category>
-      <category domain="https://www.newsbytesapp.com/news/world/abdulrahman-alfozan-arrested-filings-show-whatsapp-contact-with-saudi-royal/tldr">NewsBytes</category>
-      <nf:category>policy</nf:category>
-      <nf:sensitive>true</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-19-openai-bug-suspect-saudi-royal-whatsapp/hero.jpg" width="1200" height="630" ai="false"><nf:alt>The OpenAI bugging suspect was texting a Saudi royal days before his arrest, feds say</nf:alt><nf:credit>www.aljazeera.com</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&amp;quality=80</nf:source></nf:hero>
-      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934.jpg" medium="image"><media:credit>U.S. Department of Justice via Reuters</media:credit></media:content>
-      <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&amp;quality=80" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://assets.qz.com/media/GettyImages-2266383509-1920x1280.jpg" medium="image"><media:credit>SOPA Images / Getty Images</media:credit></media:content>
-      <media:content url="https://gizmodo.com/app/uploads/2026/10/GettyImages-2299257316.jpg" medium="image"><media:credit>Win McNamee / Getty Images</media:credit></media:content>
-      <media:content url="https://gizmodo.com/app/uploads/2026/10/GettyImages-2299257316-1200x675.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.coloradopolitics.com/wp-content/uploads/2026/10/AP-OpenAI_Government_Websites__4766.jpg" medium="image"><media:credit>AP Photo / Michael Dwyer</media:credit></media:content>
-      <media:content url="https://futurism.com/wp-content/uploads/2026/10/man-bugged-openai-executive-conference-room-flight-saudi-arabia.jpg?w=1200" medium="image"><media:credit>DOJ / Futurism</media:credit></media:content>
-      <media:content url="https://gizmodo.com/app/uploads/2026/06/GettyImages-2264640543-1280x852.jpg" medium="image"><media:credit>Getty Images</media:credit></media:content>
     </item>
   </channel>
 </rss>
