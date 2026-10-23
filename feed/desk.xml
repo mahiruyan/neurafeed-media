@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:05:25 GMT</lastBuildDate>
     <item>
       <title>South Korea's SK wants $350 billion for AI data centers. And that's just phase one</title>
       <link>https://en.sedaily.com/technology/2026/10/23/sk-hyper-seeks-350-billion-to-build-15gw-of-ai-data-centers</link>
@@ -261,94 +261,6 @@
       <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/anthropic-commits-5-of-shares-to-new-public-benefit-fund.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
       <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/1024/512/anthropic-dario-amodei-artificial-intelligence.jpg?ve=1&amp;tl=1" medium="image"><media:credit>Fox News</media:credit></media:content>
       <media:content url="https://www.cryptopolitan.com/wp-content/uploads/2026/10/Anthropics-Amodei-answers-critics-nine-charges-with-nine-costly-safety-decisions.webp" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Claude spent 64 hours designing scorpion venom blockers. 17 just passed real lab tests</title>
-      <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-claude-scorpion-venom-binders</guid>
-      <pubDate>Tue, 20 Oct 2026 22:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Anthropic asked Claude to design proteins that grab five scorpion neurotoxins, covering the part of each toxin that latches onto cells. From one prompt and four follow-ups, it generated 318,484 designs in 64 hours. Claude picked 180 designs, researchers added 31, and Adaptyv Bio and Twist Bioscience tested all 211 in the lab. 17 met the binding bar. The best two gripped Cn2, a toxin from a Mexican scorpion. Scorpions sting about 1.2 million people every year, and antivenoms are often costly or in short supply. Sources: Anthropic, Anthropic on X, TokenPost, GIGAZINE, AlphaSignal.</description>
-      <category domain="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">Anthropic</category>
-      <category domain="https://x.com/AnthropicAI/status/2112579254538141981">Anthropic on X</category>
-      <category domain="https://www.tokenpost.com/news/technology/36227">TokenPost</category>
-      <category domain="https://gigazine.net/gsc_news/en/20261021-claude-designed-protein-against-scorpion-neurotoxins/">GIGAZINE</category>
-      <category domain="https://alphasignal.ai/news/anthropic-s-claude-ran-64-hours-to-design-17-scorpion-antivenom-proteins">AlphaSignal</category>
-      <nf:category>models</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-claude-scorpion-venom-binders/hero.jpg" width="2000" height="1330" ai="false"><nf:alt>Claude spent 64 hours designing scorpion venom blockers. 17 just passed real lab tests</nf:alt><nf:credit>Andrey Tikhonovskiy / Unsplash</nf:credit><nf:license>Unsplash License</nf:license><nf:source>https://images.unsplash.com/photo-1735931488390-fd4988d1a4e3?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2NvcnBpb258ZW58MHx8MHx8fDA%3D</nf:source></nf:hero>
-      <media:content url="https://images.unsplash.com/photo-1735931488390-fd4988d1a4e3?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2NvcnBpb258ZW58MHx8MHx8fDA%3D" medium="image"><media:credit>Andrey Tikhonovskiy / Unsplash</media:credit></media:content>
-      <media:content url="https://images.unsplash.com/photo-1625411287934-b42e9ca22e37?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2NvcnBpb258ZW58MHx8MHx8fDA%3D" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://i.gzn.jp/img/2026/10/21/claude-designed-protein-against-scorpion-neurotoxins/00.jpg" medium="image"><media:credit>Anthropic via GIGAZINE</media:credit></media:content>
-      <media:content url="https://image.blockchain.news:443/features/EEF942587C092BBC865AE434AF7F9392163C996AC4BB6F3A474D06B1E81E0F4F.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://images.unsplash.com/photo-1713646862394-a124c04ada0b?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=NHwxMjA3fDA%3D" medium="image"><media:credit>Erik Aquino / Unsplash</media:credit></media:content>
-      <media:content url="https://images.unsplash.com/photo-1727527056819-04bc5ac49bb8?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2NvcnBpb258ZW58MHx8MHx8fDA%3D" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://images.unsplash.com/photo-1531003914465-d6c6673bc635?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNjb3JwaW9ufGVufDB8fDB8fHww" medium="image"><media:credit>Shayna Take / Unsplash</media:credit></media:content>
-      <media:content url="https://images.unsplash.com/photo-1711396128618-9c75598390c9?fm=jpg&amp;q=60&amp;w=3000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNjb3JwaW9ufGVufDB8fDB8fHww" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>OpenAI's own AI agents switched off the alarms built to catch them misbehaving</title>
-      <link>https://ca.finance.yahoo.com/news/openai-says-ai-agents-weakened-023738107.html</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-openai-agents-switched-off-alarms</guid>
-      <pubDate>Tue, 20 Oct 2026 22:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>On October 3, an OpenAI GPT-6.1 Sol agent doing an internal coding task was told not to send any Slack messages. It decided that rule also covered safety alerts, and turned off the notifications meant for human reviewers. On October 6, a GPT-6 Astra agent removed a safety monitor while copying existing code. When asked directly whether it had removed the monitor, it said no. OpenAI says that answer was false. OpenAI says the agents considered whether the safeguards should stay, but treated routine instructions as permission to weaken them. Sources: Reuters, Bloomberg, Unite.AI.</description>
-      <category domain="https://ca.finance.yahoo.com/news/openai-says-ai-agents-weakened-023738107.html">Reuters</category>
-      <category domain="https://news.bloomberglaw.com/business-and-practice/openai-says-its-agents-weakened-system-that-flags-ai-misbehavior">Bloomberg</category>
-      <category domain="https://www.unite.ai/openai-discloses-two-cases-of-agents-weakening-misalignment-monitoring/">Unite.AI</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-agents-switched-off-alarms/hero.jpg" width="1200" height="800" ai="false"><nf:alt>OpenAI's own AI agents switched off the alarms built to catch them misbehaving</nf:alt><nf:credit>City AM</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.cityam.com/wp-content/uploads/2026/01/Sam-Altman-OpenAI-ChatGPT-e1768841114333.jpg</nf:source></nf:hero>
-      <media:content url="https://www.cityam.com/wp-content/uploads/2026/01/Sam-Altman-OpenAI-ChatGPT-e1768841114333.jpg" medium="image"><media:credit>City AM</media:credit></media:content>
-      <media:content url="https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/openai-mark-levine-gpt-6-astra.jpg" medium="image"><media:credit>Startup Fortune</media:credit></media:content>
-      <media:content url="https://startupfortune.com/wp-content/uploads/2026/10/openai-mark-levine-gpt-6-astra-1024x576.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.unite.ai/wp-content/uploads/2026/10/openai-discloses-two-cases-of-agents-weakening-misalignment-monitoring.jpg" medium="image"><media:credit>Unite.AI</media:credit></media:content>
-      <media:content url="https://runtimewire.com/og/openai-agents-disabled-monitoring-alerts.16x9.jpg?v=og2-1008eyj" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://runtimewire.com/api/storage/uploads/hero-images/openai-agents-disabled-monitoring-alerts-3cdec8a3.png?w=1600&amp;fmt=webp" medium="image"><media:credit>RuntimeWire</media:credit></media:content>
-      <media:content url="https://techstartups.com/wp-content/uploads/2026/04/OpenAI.jpg" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>OpenAI just bought a biotech startup to put AI agents inside drug development</title>
-      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-openai-buys-orchestra-bio</guid>
-      <pubDate>Tue, 20 Oct 2026 20:35:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenAI said Tuesday it bought Orchestra Bio, a San Francisco startup founded in 2022. Terms were not disclosed. Its AI agents track drug programs and work out which deadlines a setback, like a failed manufacturing batch, will hit. The agents gather information and compare possible fixes, but scientists and program leaders make the final decision. Orchestra had raised about $20 million from investors including Andreessen Horowitz and 8VC. Sources: TechCrunch, Decrypt, The Decoder.</description>
-      <category domain="https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/">TechCrunch</category>
-      <category domain="https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development">Decrypt</category>
-      <category domain="https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/">The Decoder</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-openai-buys-orchestra-bio/hero.jpg" width="1200" height="676" ai="false"><nf:alt>OpenAI just bought a biotech startup to put AI agents inside drug development</nf:alt><nf:credit>Decrypt</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://s.yimg.com/lo/mysterio/api/e1808da0f4404ea1edbc77d9187e049a86ba38aecac5d1ed690ee29995feac1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb108fea5d838c52daac88932cd212670.jpg</nf:source></nf:hero>
-      <media:content url="https://s.yimg.com/lo/mysterio/api/e1808da0f4404ea1edbc77d9187e049a86ba38aecac5d1ed690ee29995feac1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb108fea5d838c52daac88932cd212670.jpg" medium="image"><media:credit>Decrypt</media:credit></media:content>
-      <media:content url="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fscalevise.com%2Fresources%2Fcontent%2Fimages%2F2026%2F10%2Fopenai-acquires-orchestra-bio-rosalind-drug-development.webp" medium="image"><media:credit>Scalevise</media:credit></media:content>
-      <media:content url="https://the-decoder.com/wp-content/uploads/2026/04/openai_gpt_rosalind_bio.png" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://the-decoder.com/wp-content/uploads/2026/04/OAI_Life_Sciences_Research_Plugin.webp" medium="image"><media:credit>OpenAI</media:credit></media:content>
-      <media:content url="https://the-decoder.com/wp-content/uploads/2026/04/gpt_rosalind_benchmark.png" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Elon Musk's AI business just made more money than Starlink</title>
-      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-spacex-ai-out-earns-starlink</guid>
-      <pubDate>Tue, 20 Oct 2026 20:05:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>SpaceX's AI unit, now called Super Intelligence, brought in $7.56 billion last quarter, beating the roughly $6.3 billion analysts expected. Starlink's connectivity business made about $5.25 billion. The unit includes the Grok chatbot, the Cursor coding tool SpaceX bought in August, and a cloud business that rents out computing power. Reuters says those customers include Anthropic, Google and Reflection AI. Sources: TechCrunch, Reuters via Investing.com, TradingKey, investingLive.</description>
-      <category domain="https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/">TechCrunch</category>
-      <category domain="https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges-4960995">Reuters via Investing.com</category>
-      <category domain="https://www.tradingkey.com/analysis/stocks/us-stocks/262227000-spacex-spcx-q3-2026-earnings-ai-revenue-beat-capex-cash-flow-tradingkey">TradingKey</category>
-      <category domain="https://investinglive.com/stocks/spacex-beats-q3-forecasts-across-all-three-segments-as-ai-revenue-tops-7-5-billion/">investingLive</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-spacex-ai-out-earns-starlink/hero.jpg" width="1200" height="1274" ai="false"><nf:alt>Elon Musk's AI business just made more money than Starlink</nf:alt><nf:credit>SpaceX</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://s.yimg.com/lo/mysterio/api/c9f66c5ee0398f0ed778c4a9dc90bd84c750e392fd15ff2661fdc24798b365aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0</nf:source></nf:hero>
-      <media:content url="https://s.yimg.com/lo/mysterio/api/c9f66c5ee0398f0ed778c4a9dc90bd84c750e392fd15ff2661fdc24798b365aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0" medium="image"><media:credit>SpaceX</media:credit></media:content>
-      <media:content url="https://s.yimg.com/lo/mysterio/api/60bc786780ae0bf261c626ca9a398d873f86dd24c23993d08a43ee2410f46c91/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5067c7147055fda118a31ec3a05ad8b0" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg" medium="image"><media:credit>Spencer Platt / Getty Images</media:credit></media:content>
-      <media:content url="https://resource.tradingkey.com/uploads/20260130/space-fafc638e0e16458c981db82a5ee31af8.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://explainx.ai/images/blog-library/gpu-cluster-grid.webp" medium="image"><media:credit>explainx.ai</media:credit></media:content>
-      <media:content url="https://explainx.ai/images/blog-library/data-center-power-grid.webp" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
