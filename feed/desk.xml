@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:56:03 GMT</lastBuildDate>
     <item>
       <title>South Korea's SK wants $350 billion for AI data centers. And that's just phase one</title>
       <link>https://en.sedaily.com/technology/2026/10/23/sk-hyper-seeks-350-billion-to-build-15gw-of-ai-data-centers</link>
@@ -371,30 +371,6 @@
       <media:content url="https://s.yimg.com/lo/mysterio/api/19dff9fd4158ad8396e9d8470ea113968d36974ee433da0f6a56238b9f62a001/lightyear_networkapi/resizefill_w1200%3Bquality_80" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://cdn.geekwire.com/wp-content/uploads/2025/11/aws-data-center-interior-2.png" medium="image"><media:credit>Amazon via GeekWire</media:credit></media:content>
       <media:content url="https://img.energytech.com/files/base/ebm/energytech/image/2026/03/69bc368671bddf0a99567bff-monarch_compute_campus_rendering.png?auto=format,compress&amp;w=1600" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Meta's Muse just hit 10 million US downloads in 40 days. ChatGPT needed 123</title>
-      <link>https://ppc.land/metas-muse-gains-10-million-us-downloads-in-40-days-sensor-tower-finds/</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-meta-muse-10-million-downloads</guid>
-      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Muse passed 10 million US downloads in 40 days, Sensor Tower estimates. Only 11 other apps have done that since 2015, the last one being Threads. ChatGPT took 123 days to reach that mark. Grok took 211, Claude 673. Meta put 39% of its October ad spend into Muse, up from 23% in September, Sensor Tower says. Muse jumped from 73rd to 21st in US ad impressions. It reached 2.5 million daily users on October 16. Meta's headquarters in Menlo Park, California. Sources: PPC Land (Sensor Tower data), Benzinga, Cryptopolitan, WeRSM, Trending Topics.</description>
-      <category domain="https://ppc.land/metas-muse-gains-10-million-us-downloads-in-40-days-sensor-tower-finds/">PPC Land (Sensor Tower data)</category>
-      <category domain="https://www.benzinga.com/markets/tech/26/10/62489056/metas-muse-ai-agent-gains-traction-ahead-of-q3-earnings-hits-10-million-downloads-in-40-days-as-openais-chatgpt-app-installs-slide-25-in-us-report">Benzinga</category>
-      <category domain="https://www.cryptopolitan.com/metas-muse-hits-10-2m-us-downloads-but-the-fast-start-runs-on-ad-spend/">Cryptopolitan</category>
-      <category domain="https://wersm.com/meta-muse-reaches-10-million-us-downloads-in-40-days/">WeRSM</category>
-      <category domain="https://www.trendingtopics.eu/meta-muse-agent-10-million-downloads/">Trending Topics</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-meta-muse-10-million-downloads/hero.jpg" width="1920" height="1080" ai="false"><nf:alt>Meta's Muse just hit 10 million US downloads in 40 days. ChatGPT needed 123</nf:alt><nf:credit>Meta</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1920-80.jpg</nf:source></nf:hero>
-      <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1920-80.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
-      <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://cdn.mos.cms.futurecdn.net/CYgDbZBmW2NiCqdiS9b54o-1200-80.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://images.axios.com/bTwQdpihpcvBE-aUIlE6sBgg9Ns=/0x611:5863x3909/1920x1080/2026/09/24/1790276275992.jpeg?w=3840" medium="image"><media:credit>Minh Connors/Bloomberg via Getty Images</media:credit></media:content>
-      <media:content url="https://images.axios.com/8eGefjJBu0GA3X6wn3aGKtOTHhA=/0x611:5863x3909/1366x768/2026/09/24/1790276275992.jpeg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://www.thenationalnews.com/resizer/v2/FSZRSGT5UHNSYTMLXC76AXUN6Y.jpg?auth=5725ec4413a0be1b5186527f1f96219909174c96caf55bb779c06be98df6e46c&amp;smart=true&amp;width=1200&amp;height=630" medium="image"><media:credit>Bloomberg</media:credit></media:content>
-      <media:content url="https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU-1920-80.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
-      <media:content url="https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU.jpg" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
