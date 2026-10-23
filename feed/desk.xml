@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:14:17 GMT</lastBuildDate>
     <item>
       <title>South Korea's SK wants $350 billion for AI data centers. And that's just phase one</title>
       <link>https://en.sedaily.com/technology/2026/10/23/sk-hyper-seeks-350-billion-to-build-15gw-of-ai-data-centers</link>
@@ -395,27 +395,6 @@
       <media:content url="https://www.thenationalnews.com/resizer/v2/FSZRSGT5UHNSYTMLXC76AXUN6Y.jpg?auth=5725ec4413a0be1b5186527f1f96219909174c96caf55bb779c06be98df6e46c&amp;smart=true&amp;width=1200&amp;height=630" medium="image"><media:credit>Bloomberg</media:credit></media:content>
       <media:content url="https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU-1920-80.jpg" medium="image"><media:credit>Meta</media:credit></media:content>
       <media:content url="https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU.jpg" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>Google's Gemini can now dig through your Gmail and Photos while you drive</title>
-      <link>https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-21-gemini-android-auto-reads-your-apps</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>Google began rolling out Personal Intelligence for Gemini on Android Auto on Tuesday. It can pull from Gmail, Calendar, Photos, Maps, YouTube and Search. Ask for your flight gate and whether it's on time, and it answers both. It can find a car wash from a photo you took last week and take you there, or head to a coffee shop you talked about the day before. It can also suggest restaurants on your route that fit your tastes. It is opt-in: you pick which apps to connect and can switch it off anytime in Gemini settings. Sources: TechCrunch, Android Headlines, Technobezz, Androidpure.</description>
-      <category domain="https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car">TechCrunch</category>
-      <category domain="https://www.androidheadlines.com/2026/10/android-auto-gets-personal-intelligence-in-gemini-starting-today.html">Android Headlines</category>
-      <category domain="https://www.technobezz.com/news/google-gemini-personal-intelligence-android-auto">Technobezz</category>
-      <category domain="https://www.androidpure.com/gemini-personal-intelligence-android-auto/">Androidpure</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-21-gemini-android-auto-reads-your-apps/hero.jpg" width="1420" height="800" ai="false"><nf:alt>Google's Gemini can now dig through your Gmail and Photos while you drive</nf:alt><nf:credit>Android Headlines</nf:credit><nf:license>Used with credit</nf:license><nf:source>https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Android-Auto-Logo-1420x799.webp</nf:source></nf:hero>
-      <media:content url="https://www.androidheadlines.com/wp-content/uploads/2024/02/AH-Android-Auto-Logo-1420x799.webp" medium="image"><media:credit>Android Headlines</media:credit></media:content>
-      <media:content url="https://www.androidpure.com/wp-content/uploads/2026/10/gemini-personal-intelligence-android-auto-hero.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200" medium="image"><media:credit>Google</media:credit></media:content>
-      <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1024" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://cdn.technobezz.com/c/Technobezz_2026_10_20_T184452_850_802fbed158.png" medium="image"><media:credit>Technobezz</media:credit></media:content>
-      <media:content url="https://i0.wp.com/www.androidpure.com/wp-content/uploads/2026/10/gemini-personal-intelligence-android-auto-hero.jpg?ssl=1" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
