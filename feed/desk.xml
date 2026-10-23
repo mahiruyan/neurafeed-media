@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/neurafeed.ai/</link>
     <description>AI news stories the NeuraFeed desk checked against at least two sources. Summaries use only facts from those sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:12:57 GMT</lastBuildDate>
     <item>
       <title>Microsoft's AI solved 83% of the hardest medical cases. Doctors got 36%</title>
       <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
@@ -334,28 +334,6 @@
       <media:content url="https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1024" medium="image"><media:credit></media:credit></media:content>
       <media:content url="https://cdn.technobezz.com/c/Technobezz_2026_10_20_T184452_850_802fbed158.png" medium="image"><media:credit>Technobezz</media:credit></media:content>
       <media:content url="https://i0.wp.com/www.androidpure.com/wp-content/uploads/2026/10/gemini-personal-intelligence-android-auto-hero.jpg?ssl=1" medium="image"><media:credit></media:credit></media:content>
-    </item>
-    <item>
-      <title>OpenAI is rushing to grab $30 billion before Anthropic's IPO gets it first</title>
-      <link>https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say</link>
-      <guid isPermaLink="false">neurafeed-desk:2026-10-20-openai-30-billion-race-anthropic-ipo-v2</guid>
-      <pubDate>Mon, 19 Oct 2026 22:30:00 GMT</pubDate>
-      <author>NeuraFeed news desk</author>
-      <description>OpenAI is seeking about $30 billion in a new round that could value it at over $1.4 trillion, Reuters reported, citing two people familiar with the matter. SoftBank, Abu Dhabi's MGX and other existing backers are in talks to join. Neither the amount nor the valuation is final. Anthropic is expected to go public in mid-November, and the two labs draw on a largely overlapping pool of investors. Sources: Reuters (via The Star), Reuters (via Global Banking &amp; Finance Review), TechStartups, Seeking Alpha (via TradingView), KuCoin News.</description>
-      <category domain="https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say">Reuters (via The Star)</category>
-      <category domain="https://www.globalbankingandfinance.com/exclusive-openai-seeks-accelerate-fundraising-ahead/">Reuters (via Global Banking &amp; Finance Review)</category>
-      <category domain="https://techstartups.com/2026/10/19/openai-seeks-1-4-trillion-valuation-in-30-billion-funding-push-ahead-of-anthropic-ipo/">TechStartups</category>
-      <category domain="https://www.tradingview.com/news/seekingalpha:16ed3c48d094b:0-openai-races-to-lock-in-30b-at-1-4tvaluation-ahead-of-anthropic-ipo/">Seeking Alpha (via TradingView)</category>
-      <category domain="https://www.kucoin.com/news/flash/openai-accelerates-fundraising-ahead-of-anthropic-s-expected-ipo">KuCoin News</category>
-      <nf:category>companies</nf:category>
-      <nf:sensitive>false</nf:sensitive>
-      <nf:hero url="https://raw.githubusercontent.com/mahiruyan/neurafeed-media/main/2026-10-20-openai-30-billion-race-anthropic-ipo-v2/hero.jpg" width="1536" height="1024" ai="true"><nf:alt>A sports car and a race car on a track with a duffel bag full of cash in the foreground.</nf:alt><nf:credit>Illustration: NeuraFeed (AI-generated)</nf:credit><nf:license>Original image created for NeuraFeed</nf:license></nf:hero>
-      <media:content url="https://techstartups.com/wp-content/uploads/2026/04/OpenAI.jpg" medium="image"><media:credit>TechStartups</media:credit></media:content>
-      <media:content url="https://www.globalbankingandfinance.com/i/cloud-65beddb7-5a5c-4bcb-b177-4c54dca7d8a1/width=1200,quality=72,format=auto,fit=cover/" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://i0.wp.com/crm.retailnews.asia/wp-content/uploads/2025/09/OpenAI-1024x683.avif?w=1600&amp;quality=72&amp;strip=all&amp;ssl=1" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://techstartups.com/wp-content/uploads/2026/10/Anthropic-third-quarter-revenue-jumps-45-to-16.8-billion-ahead-of-blockbuster-2-trillion-IPO.jpg" medium="image"><media:credit>TechStartups</media:credit></media:content>
-      <media:content url="https://techstartups.com/wp-content/uploads/2024/06/Anthropic.jpg" medium="image"><media:credit></media:credit></media:content>
-      <media:content url="https://techstartups.com/wp-content/uploads/2025/09/OPenAI.jpg" medium="image"><media:credit></media:credit></media:content>
     </item>
   </channel>
 </rss>
